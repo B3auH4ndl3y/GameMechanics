@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/FI/1HBRBDOPPRYK6VHKYKCZP8.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/EX/GQK8HL64FMY4XTYR71ST3A.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/G5/IPRGLMTVCWM6OOPP4MMA76.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/1Q/W3OOT7UMZ5QSHWHTKMBR86.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
