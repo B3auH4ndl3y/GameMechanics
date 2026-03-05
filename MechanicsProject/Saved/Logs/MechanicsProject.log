@@ -22496,3 +22496,38 @@ Sampler Limit: 32
 [2026.03.05-17.00.14:025][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10302.872070
 [2026.03.05-17.00.14:167][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.05-17.00.14:167][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10303.004883, Update Interval: 351.765503
+[2026.03.05-17.06.56:679][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10705.526367
+[2026.03.05-17.06.57:679][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.06.57:679][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10706.191406, Update Interval: 315.201874
+[2026.03.05-17.09.50:717][396]LogDerivedDataCache: C:/Users/S25134411/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.05-17.12.53:314][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11062.267578
+[2026.03.05-17.12.53:448][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.12.53:448][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11062.392578, Update Interval: 354.682465
+[2026.03.05-17.12.55:793][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.05-17.12.55:797][158]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.029
+[2026.03.05-17.12.55:797][158]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.03.05-17.12.55:797][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.03.05-17.12.55:802][158]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_Default_Auto0
+[2026.03.05-17.12.55:802][158]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/IMC_Default_Auto0EC8D31714EE846732E747EA4A57C5163.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Autosaves/Game/Input/IMC_Default_Auto0.uasset'
+[2026.03.05-17.12.55:802][158]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.03.05-17.19.34:339][964]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11464.270508
+[2026.03.05-17.19.34:499][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.19.34:499][984]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11464.423828, Update Interval: 334.287537
+[2026.03.05-17.23.36:312][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.05-17.23.37:438][325]LogSlate: Window 'Save Content' being destroyed
+[2026.03.05-17.23.37:465][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-17.23.37:517][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.03.05-17.23.37:517][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.03.05-17.23.37:517][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.03.05-17.23.37:521][325]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.03.05-17.23.37:522][325]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/IMC_Default89CA2E5E4EED9906E5AFE9982F604E83.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IMC_Default.uasset'
+[2026.03.05-17.23.37:530][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.708 ms (total: 4.86 sec)
+[2026.03.05-17.23.37:581][325]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-17.23.37:581][325]LogContentValidation: Enabled validators:
+[2026.03.05-17.23.37:581][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-17.23.37:581][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-17.23.37:581][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-17.23.37:581][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-17.23.37:581][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-17.23.37:581][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-17.23.37:581][325]AssetCheck: /Game/Input/IMC_Default Validating asset
