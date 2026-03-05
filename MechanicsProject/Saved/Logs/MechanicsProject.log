@@ -19463,3 +19463,1030 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2026.03.05-15.15.48:715][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
 [2026.03.05-15.15.48:720][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2026.03.05-15.15.48:753][722]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.03.05-15.16.26:824][582]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.05-15.16.26:868][582]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.05-15.16.26:876][583]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.05-15.16.31:303][115]LogContentBrowser: Attempting asset rename: NewFolder -> Collectables
+[2026.03.05-15.16.31:303][115]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.05-15.16.48:703][870]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.05-15.16.48:717][870]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.05-15.16.48:724][870]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.05-15.16.48:741][872]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.05-15.16.51:874][216]LogContentBrowser: Attempting asset rename: NewBlueprint -> Coin
+[2026.03.05-15.16.51:880][216]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.05-15.16.53:235][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Collectables/Coin.Coin
+[2026.03.05-15.16.53:235][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.03.05-15.17.14:450][781]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.03.05-15.17.21:126][550]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.05-15.17.27:038][194]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:038][194]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:046][195]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:046][195]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:046][195]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:054][196]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:055][196]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:055][196]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:062][197]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:063][197]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:063][197]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:071][198]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:071][198]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:071][198]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:079][199]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:079][199]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:079][199]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:087][200]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:087][200]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:087][200]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:095][201]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:095][201]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:095][201]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:104][202]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:104][202]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:104][202]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:112][203]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:112][203]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:112][203]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:121][204]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:121][204]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:121][204]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:128][205]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:129][205]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:129][205]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:137][206]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:137][206]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:138][206]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:146][207]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:146][207]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:146][207]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:154][208]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:154][208]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:154][208]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:162][209]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:162][209]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:162][209]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:171][210]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:171][210]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:171][210]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:179][211]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:179][211]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:179][211]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:187][212]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:187][212]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:187][212]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:195][213]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:195][213]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:195][213]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:204][214]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:204][214]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:204][214]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:212][215]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:212][215]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:212][215]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:221][216]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:221][216]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:221][216]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:229][217]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:229][217]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:229][217]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:237][218]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:237][218]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:237][218]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:246][219]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:246][219]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:246][219]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:254][220]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:254][220]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:254][220]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:262][221]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:262][221]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:262][221]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:271][222]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:271][222]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:271][222]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:279][223]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:279][223]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:279][223]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:287][224]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:287][224]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:287][224]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:296][225]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:296][225]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:296][225]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:304][226]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:304][226]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:304][226]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:313][227]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:313][227]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:313][227]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:321][228]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:321][228]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:321][228]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:329][229]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:329][229]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:330][229]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:338][230]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:338][230]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:338][230]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:346][231]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:346][231]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:346][231]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:354][232]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:354][232]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:354][232]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:362][233]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:362][233]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:363][233]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:371][234]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:371][234]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:371][234]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:378][235]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:379][235]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:379][235]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:387][236]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:387][236]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:387][236]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:395][237]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:395][237]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:395][237]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:404][238]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:404][238]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:404][238]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:412][239]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:412][239]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:412][239]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:421][240]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:421][240]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:421][240]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:429][241]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:430][241]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:430][241]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:437][242]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:437][242]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:437][242]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:446][243]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:446][243]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:446][243]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:454][244]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:454][244]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:454][244]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:463][245]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:463][245]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:463][245]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:471][246]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:471][246]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:471][246]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:479][247]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:479][247]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:479][247]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:487][248]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:487][248]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:487][248]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:496][249]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:496][249]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:496][249]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:504][250]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:504][250]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:504][250]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:512][251]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:512][251]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:512][251]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:521][252]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:521][252]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:521][252]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:529][253]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:529][253]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:529][253]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:537][254]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:537][254]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:537][254]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:545][255]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:546][255]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:546][255]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:554][256]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.27:554][256]LogPhysics: Warning: Scale for /Engine/Transient.World_33:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.05-15.17.53:241][ 80]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-15.18.37:814][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.05-15.18.37:819][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.041
+[2026.03.05-15.18.37:819][809]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Coin] ([2] browsable assets)...
+[2026.03.05-15.18.37:938][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Coin.Coin]
+[2026.03.05-15.18.37:938][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Coin]
+[2026.03.05-15.18.37:946][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Collectables/Coin_Auto5
+[2026.03.05-15.18.37:946][809]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Coin_Auto5D5BF736C4B0CC5EA7BBDAA842811FB79.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Autosaves/Game/Blueprints/Collectables/Coin_Auto5.uasset'
+[2026.03.05-15.18.37:947][809]LogFileHelpers: Auto-saving content packages took 0.128
+[2026.03.05-15.20.28:291][739]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.03.05-15.20.28:297][739]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.03.05-15.20.28:306][740]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.03.05-15.20.32:113][185]LogContentBrowser: Attempting asset rename: NewMaterial -> Gold
+[2026.03.05-15.20.32:114][185]LogContentBrowser: End creating deferred item NewMaterial
+[2026.03.05-15.20.33:988][382]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Gold.Gold
+[2026.03.05-15.20.33:993][382]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.03.05-15.20.33:997][382]LogStreaming: Display: FlushAsyncLoading(598): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-15.20.34:017][382]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.03.05-15.20.34:025][382]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.03.05-15.20.34:031][382]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.03.05-15.20.34:033][382]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.03.05-15.20.34:486][382]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.20.34:486][382]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.20.34:487][382]MaterialEditorStats: Shader Count: 0
+[2026.03.05-15.20.34:487][382]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.20.34:569][384]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.20.34:569][384]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.20.34:569][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.20.34:569][384]MaterialEditorStats: Shader Count: 3
+[2026.03.05-15.20.34:569][384]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.20.34:606][384]LogPSOHitching: Encountered 350 PSO creation hitches so far (120 graphics, 230 compute). 0 of them were precached.
+[2026.03.05-15.20.35:254][448]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-15.20.35:254][448]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.20.35:254][448]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.05-15.20.35:254][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.20.35:254][448]MaterialEditorStats: Shader Count: 4
+[2026.03.05-15.20.35:254][448]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.20.57:493][645]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: ================================================
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Total job queries 18,371, among them cache hits 2,353 (12.81%), DDC hits 12,363 (67.30%), Duplicates 3,064 (16.68%)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Tracking 12,954 distinct input hashes that result in 11,862 distinct outputs (91.57%)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: RAM used: 158.36 MiB of 1.60 GiB budget. Usage: 9.67%
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Shaders Compiled: 591
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Jobs assigned 591, completed 591 (100%)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Average time worker was idle: 129.56 s
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Time job spent in pending queue: average 3.31 s, longest 17.74 s
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Job execution time: average 4.88 s, max 17.23 s
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Job life time (pending + execution): average 8.19 s, max 20.33
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Shader code size: total 9.417 MiB, numShaders 614, average 15.705 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.54 s
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.31%
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Jobs were issued in 214 batches (only local compilation was used), average 2.76 jobs/batch
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Average processing rate: 9.76 jobs/sec
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Total thread time: 573.303 s
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Total thread preprocess time: 189.123 s
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Percentage time preprocessing: 32.99%
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Effective parallelization: 9.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.676413
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 3.31 sec, max 5.08 sec, min 1.88 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 2.65 sec, max 5.91 sec, min 0.79 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.37 sec, max 2.58 sec, min 2.26 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 2.29 sec, max 2.68 sec, min 1.78 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 2.16 sec, max 2.16 sec, min 2.16 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 31.94% of total time (compiled   80 times, average 2.29 sec, max 2.68 sec, min 1.78 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.23% of total time (compiled   49 times, average 0.85 sec, max 5.14 sec, min 0.26 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.80% of total time (compiled   25 times, average 1.33 sec, max 4.14 sec, min 0.51 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.78% of total time (compiled   10 times, average 3.31 sec, max 5.08 sec, min 1.88 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.09% of total time (compiled   11 times, average 2.65 sec, max 5.91 sec, min 0.79 sec)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Materials Translated:    149
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Material Translation Only: 0.04 s (29%)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.05-15.20.57:503][645]LogShaderCompilers: Display: ================================================
+[2026.03.05-15.20.57:508][645]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4344.250977
+[2026.03.05-15.20.57:644][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-15.20.57:644][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4344.379883, Update Interval: 356.088745
+[2026.03.05-15.21.06:959][741]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-15.21.07:056][744]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.03.05-15.21.16:747][877]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.16:748][877]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.16:748][877]MaterialEditorStats: Shader Count: 0
+[2026.03.05-15.21.16:748][877]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.16:795][879]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.16:795][879]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.16:795][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.16:795][879]MaterialEditorStats: Shader Count: 2
+[2026.03.05-15.21.16:795][879]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.17:169][924]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-15.21.17:169][924]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.17:169][924]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.05-15.21.17:169][924]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.17:169][924]MaterialEditorStats: Shader Count: 4
+[2026.03.05-15.21.17:169][924]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.25:140][181]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-15.21.27:418][432]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-15.21.27:418][432]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.27:418][432]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.05-15.21.27:418][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.27:418][432]MaterialEditorStats: Shader Count: 5
+[2026.03.05-15.21.27:418][432]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.29:286][653]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.29:287][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.29:287][653]MaterialEditorStats: Shader Count: 0
+[2026.03.05-15.21.29:287][653]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.29:309][656]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.29:309][656]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.29:309][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.29:309][656]MaterialEditorStats: Shader Count: 2
+[2026.03.05-15.21.29:309][656]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.29:617][693]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-15.21.29:617][693]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.29:617][693]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.05-15.21.29:617][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.29:617][693]MaterialEditorStats: Shader Count: 4
+[2026.03.05-15.21.29:617][693]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.33:480][134]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.33:480][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.33:480][134]MaterialEditorStats: Shader Count: 0
+[2026.03.05-15.21.33:480][134]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.33:503][137]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.33:503][137]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.33:503][137]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.33:503][137]MaterialEditorStats: Shader Count: 2
+[2026.03.05-15.21.33:503][137]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.33:887][183]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-15.21.33:887][183]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.33:887][183]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.05-15.21.33:887][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.33:887][183]MaterialEditorStats: Shader Count: 4
+[2026.03.05-15.21.33:887][183]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.40:655][955]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.40:655][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.40:655][955]MaterialEditorStats: Shader Count: 0
+[2026.03.05-15.21.40:655][955]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.40:711][958]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.40:711][958]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-15.21.40:711][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.40:711][958]MaterialEditorStats: Shader Count: 2
+[2026.03.05-15.21.40:712][958]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.41:061][  0]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-15.21.41:061][  0]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-15.21.41:061][  0]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.05-15.21.41:061][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-15.21.41:061][  0]MaterialEditorStats: Shader Count: 4
+[2026.03.05-15.21.41:061][  0]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-15.21.52:543][227]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-15.21.57:650][803]LogMaterialEditor: Applying material Gold
+[2026.03.05-15.21.57:782][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.05-15.21.58:581][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.05-15.22.00:252][985]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-15.22.00:252][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.22.00:281][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-15.22.11:052][131]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: ================================================
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Total job queries 18,447, among them cache hits 2,398 (13.00%), DDC hits 12,366 (67.04%), Duplicates 3,065 (16.62%)
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Tracking 12,984 distinct input hashes that result in 11,885 distinct outputs (91.54%)
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: RAM used: 158.52 MiB of 1.60 GiB budget. Usage: 9.68%
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Shaders Compiled: 618
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Jobs assigned 618, completed 618 (100%)
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Average time worker was idle: 115.38 s
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Time job spent in pending queue: average 3.16 s, longest 17.74 s
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Job execution time: average 4.69 s, max 17.23 s
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Job life time (pending + execution): average 7.85 s, max 20.33
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Shader code size: total 9.632 MiB, numShaders 641, average 15.387 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 66.36 s
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.31%
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Jobs were issued in 241 batches (only local compilation was used), average 2.56 jobs/batch
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Average processing rate: 9.31 jobs/sec
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Total thread time: 582.152 s
+[2026.03.05-15.23.57:782][  5]LogShaderCompilers: Display: Total thread preprocess time: 189.823 s
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Percentage time preprocessing: 32.61%
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Effective parallelization: 8.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.626608
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 3.31 sec, max 5.08 sec, min 1.88 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 2.65 sec, max 5.91 sec, min 0.79 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.37 sec, max 2.58 sec, min 2.26 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 2.29 sec, max 2.68 sec, min 1.78 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 2.16 sec, max 2.16 sec, min 2.16 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 31.45% of total time (compiled   80 times, average 2.29 sec, max 2.68 sec, min 1.78 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.50% of total time (compiled   57 times, average 0.77 sec, max 5.14 sec, min 0.25 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.40% of total time (compiled   33 times, average 1.13 sec, max 4.14 sec, min 0.45 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.69% of total time (compiled   10 times, average 3.31 sec, max 5.08 sec, min 1.88 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.01% of total time (compiled   11 times, average 2.65 sec, max 5.91 sec, min 0.79 sec)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Materials Translated:    160
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Material Translation Only: 0.04 s (28%)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.05-15.23.57:783][  5]LogShaderCompilers: Display: ================================================
+[2026.03.05-15.24.52:932][375]LogEditorTransaction: Undo Delete current selection
+[2026.03.05-15.27.12:243][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.05-15.27.12:252][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.27.12:293][906]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Coin] ([2] browsable assets)...
+[2026.03.05-15.27.12:321][906]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Coin.Coin]
+[2026.03.05-15.27.12:321][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Coin]
+[2026.03.05-15.27.12:326][906]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Coin
+[2026.03.05-15.27.12:326][906]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Coin96CD1AF34C49DD7B9FA7D08F3F039192.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset'
+[2026.03.05-15.27.12:335][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.975 ms (total: 2.28 sec)
+[2026.03.05-15.27.12:373][906]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.27.12:373][906]LogContentValidation: Enabled validators:
+[2026.03.05-15.27.12:373][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.27.12:373][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.27.12:373][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.27.12:373][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.27.12:373][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.27.12:373][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.27.12:373][906]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.05-15.27.12:412][906]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-15.27.42:888][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4749.566406
+[2026.03.05-15.27.43:037][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-15.27.43:037][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4749.712402, Update Interval: 317.529236
+[2026.03.05-15.28.51:520][378]LogEditorTransaction: Undo Add Node
+[2026.03.05-15.31.20:895][729]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.05-15.31.20:900][729]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-15.31.20:900][729]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.05-15.31.20:901][729]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 519 us (total: 10.607 ms)
+[2026.03.05-15.31.20:901][729]LogPlayLevel: [PlayLevel] Compiling Coin before play...
+[2026.03.05-15.31.20:923][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.31.20:981][729]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Coin] ([2] browsable assets)...
+[2026.03.05-15.31.21:102][729]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Coin.Coin]
+[2026.03.05-15.31.21:102][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Coin]
+[2026.03.05-15.31.21:112][729]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Coin
+[2026.03.05-15.31.21:113][729]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/CoinB326DF9D46C25B7139C5CE8E0687B171.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset'
+[2026.03.05-15.31.21:122][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.275 ms (total: 2.48 sec)
+[2026.03.05-15.31.21:140][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.05-15.31.21:141][729]LogPlayLevel: PlayLevel: Blueprint regeneration took 240 ms (1 blueprints)
+[2026.03.05-15.31.21:142][729]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.31.21:145][729]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-15.31.21:146][729]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 838 us (total: 16.498 ms)
+[2026.03.05-15.31.21:146][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005136s)
+[2026.03.05-15.31.21:146][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005167s)
+[2026.03.05-15.31.21:161][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.05-15.31.21:163][729]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.05-15.31.21:165][729]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-15.31.21:165][729]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-15.31.21:165][729]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-15.31.21:165][729]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-15.31.21:166][729]LogWorldPartition: Display: WorldPartition initialize took 1.087 ms (total: 1.20 sec)
+[2026.03.05-15.31.21:166][729]LogPlayLevel: PIE: World Init took: (0.002627s)
+[2026.03.05-15.31.21:166][729]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.03.05-15.31.21:166][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-15.31.21:166][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-15.31.21:166][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-15.31.21:166][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-15.31.21:166][729]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-15.31.21:166][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-15.31.21:166][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-15.31.21:166][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-15.31.21:166][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-15.31.21:166][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-15.31.21:166][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-15.31.21:169][729]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-15.31.21:187][729]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.05-15.31.21:187][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-15.31.21:188][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-15.31.21:188][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-15.31.21:188][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.03.05-15.31.21:188][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.03.05-15.31.21:190][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.03.05-15.31.21:190][729]LogInit: FAudioDevice initialized with ID 21.
+[2026.03.05-15.31.21:190][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.03.05-15.31.21:190][729]LogAudio: Display: Audio Device (ID: 21) registered with world 'Lvl_ThirdPerson'.
+[2026.03.05-15.31.21:190][729]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.05-15.31.21:244][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.31.21:244][729]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.05-15.31.21:246][729]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.05-15.31.21
+[2026.03.05-15.31.21:247][729]LogWorld: Bringing up level for play took: 0.001952
+[2026.03.05-15.31.21:249][729]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.03.05-15.31.21:254][729]PIE: Server logged in
+[2026.03.05-15.31.21:254][729]PIE: Play in editor total start time 0.354 seconds.
+[2026.03.05-15.31.21:278][730]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.31.21:278][730]LogContentValidation: Enabled validators:
+[2026.03.05-15.31.21:278][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.31.21:278][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.31.21:278][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.31.21:278][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.31.21:278][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.31.21:278][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.31.21:278][730]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.05-15.31.21:287][730]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-15.31.26:695][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.31.26:695][347]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.31.26:696][347]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-15.31.26:701][347]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-15.31.26:702][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.31.26:702][347]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.05-15.31.26:702][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-15.31.26:705][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.31.26:722][347]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.05-15.31.26:724][347]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.03.05-15.31.26:726][347]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.03.05-15.31.26:731][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.05-15.31.26:777][348]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.03.05-15.33.38:307][937]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5104.884766
+[2026.03.05-15.33.38:464][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-15.33.38:464][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5105.034180, Update Interval: 318.552826
+[2026.03.05-15.36.01:603][774]LogEditorTransaction: Undo Add Node
+[2026.03.05-15.37.51:703][409]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.05-15.37.51:708][409]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-15.37.51:708][409]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.05-15.37.51:709][409]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 605 us (total: 11.213 ms)
+[2026.03.05-15.37.51:710][409]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2026.03.05-15.37.51:769][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.37.51:839][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.05-15.37.51:898][409]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.05-15.37.51:898][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.05-15.37.51:916][409]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.05-15.37.51:917][409]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/BP_ThirdPersonCharacterF6FCDEF44A52FD2AFDE6EDA3EA969FB8.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.05-15.37.51:924][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.584 ms (total: 2.63 sec)
+[2026.03.05-15.37.51:925][409]LogPlayLevel: [PlayLevel] Compiling Coin before play...
+[2026.03.05-15.37.51:951][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.37.52:023][409]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Coin] ([2] browsable assets)...
+[2026.03.05-15.37.52:034][409]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Coin.Coin]
+[2026.03.05-15.37.52:034][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Coin]
+[2026.03.05-15.37.52:041][409]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Coin
+[2026.03.05-15.37.52:041][409]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Coin2D75DB2B43BA3A9071399A941151D8EF.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset'
+[2026.03.05-15.37.52:048][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.136 ms (total: 2.73 sec)
+[2026.03.05-15.37.52:068][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.05-15.37.52:071][409]LogPlayLevel: PlayLevel: Blueprint regeneration took 361 ms (2 blueprints)
+[2026.03.05-15.37.52:072][409]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.37.52:075][409]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-15.37.52:076][409]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 826 us (total: 17.325 ms)
+[2026.03.05-15.37.52:076][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005118s)
+[2026.03.05-15.37.52:076][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005148s)
+[2026.03.05-15.37.52:093][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.05-15.37.52:094][409]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.05-15.37.52:096][409]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-15.37.52:096][409]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-15.37.52:096][409]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-15.37.52:096][409]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-15.37.52:097][409]LogWorldPartition: Display: WorldPartition initialize took 1.136 ms (total: 1.20 sec)
+[2026.03.05-15.37.52:097][409]LogPlayLevel: PIE: World Init took: (0.002837s)
+[2026.03.05-15.37.52:098][409]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.03.05-15.37.52:098][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-15.37.52:098][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-15.37.52:098][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-15.37.52:098][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-15.37.52:098][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-15.37.52:098][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-15.37.52:098][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-15.37.52:098][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-15.37.52:098][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-15.37.52:098][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-15.37.52:098][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-15.37.52:100][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-15.37.52:118][409]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.05-15.37.52:118][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-15.37.52:118][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-15.37.52:118][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-15.37.52:119][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.03.05-15.37.52:119][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.03.05-15.37.52:120][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.03.05-15.37.52:120][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.03.05-15.37.52:120][409]LogInit: FAudioDevice initialized with ID 22.
+[2026.03.05-15.37.52:120][409]LogAudio: Display: Audio Device (ID: 22) registered with world 'Lvl_ThirdPerson'.
+[2026.03.05-15.37.52:120][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.05-15.37.52:181][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.37.52:181][409]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.05-15.37.52:183][409]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.05-15.37.52
+[2026.03.05-15.37.52:183][409]LogWorld: Bringing up level for play took: 0.002096
+[2026.03.05-15.37.52:185][409]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.03.05-15.37.52:191][409]PIE: Server logged in
+[2026.03.05-15.37.52:191][409]PIE: Play in editor total start time 0.483 seconds.
+[2026.03.05-15.37.52:223][410]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.05-15.37.52:223][410]LogContentValidation: Enabled validators:
+[2026.03.05-15.37.52:223][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.37.52:223][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.37.52:223][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.37.52:223][410]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.37.52:223][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.37.52:223][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.37.52:223][410]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.05-15.37.52:223][410]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.05-15.37.52:228][410]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-15.37.53:717][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.37.53:717][545]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.37.53:717][545]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-15.37.53:720][545]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-15.37.53:721][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.37.53:721][545]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.05-15.37.53:722][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-15.37.53:725][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.37.53:743][545]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.05-15.37.53:743][545]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.03.05-15.37.53:744][545]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.03.05-15.37.53:749][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.05-15.37.53:797][546]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.03.05-15.37.57:800][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Coin.Coin_C
+[2026.03.05-15.37.57:800][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Coin.Coin_C
+[2026.03.05-15.37.57:803][988]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Coin.Coin as actor: Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Coin_C_0
+[2026.03.05-15.37.57:804][988]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Coin.Coin as actor: Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Coin_C_0
+[2026.03.05-15.37.57:807][988]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.05-15.37.59:082][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.05-15.37.59:083][135]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.03.05-15.37.59:088][135]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Coin.Coin_C
+[2026.03.05-15.37.59:088][135]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Coin.Coin_C
+[2026.03.05-15.37.59:093][135]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Coin.Coin as actor: Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Coin_C_UAID_D843AEDEA84CFFC402_1990549351
+[2026.03.05-15.37.59:094][135]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Coin.Coin as actor: Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Coin_C_UAID_D843AEDEA84CFFC402_1990549351
+[2026.03.05-15.38.02:036][477]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.05-15.38.02:041][477]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-15.38.02:041][477]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.05-15.38.02:042][477]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 614 us (total: 11.827 ms)
+[2026.03.05-15.38.02:043][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-15.38.02:043][477]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.38.02:048][477]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-15.38.02:049][477]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 844 us (total: 18.170 ms)
+[2026.03.05-15.38.02:049][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005064s)
+[2026.03.05-15.38.02:049][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005087s)
+[2026.03.05-15.38.02:065][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.05-15.38.02:069][477]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.05-15.38.02:070][477]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-15.38.02:070][477]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-15.38.02:070][477]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-15.38.02:070][477]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-15.38.02:072][477]LogWorldPartition: Display: WorldPartition initialize took 1.184 ms (total: 1.20 sec)
+[2026.03.05-15.38.02:072][477]LogPlayLevel: PIE: World Init took: (0.002657s)
+[2026.03.05-15.38.02:072][477]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.03.05-15.38.02:072][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-15.38.02:072][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-15.38.02:072][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-15.38.02:072][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-15.38.02:072][477]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-15.38.02:072][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-15.38.02:072][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-15.38.02:072][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-15.38.02:072][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-15.38.02:072][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-15.38.02:072][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-15.38.02:074][477]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-15.38.02:089][477]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.05-15.38.02:090][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-15.38.02:090][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-15.38.02:090][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-15.38.02:090][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.03.05-15.38.02:090][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.03.05-15.38.02:092][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.03.05-15.38.02:092][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.03.05-15.38.02:092][477]LogInit: FAudioDevice initialized with ID 23.
+[2026.03.05-15.38.02:092][477]LogAudio: Display: Audio Device (ID: 23) registered with world 'Lvl_ThirdPerson'.
+[2026.03.05-15.38.02:092][477]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.05-15.38.02:149][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.38.02:149][477]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.05-15.38.02:152][477]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.05-15.38.02
+[2026.03.05-15.38.02:152][477]LogWorld: Bringing up level for play took: 0.002241
+[2026.03.05-15.38.02:154][477]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.03.05-15.38.02:166][477]PIE: Server logged in
+[2026.03.05-15.38.02:168][477]PIE: Play in editor total start time 0.127 seconds.
+[2026.03.05-15.38.02:216][478]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-15.38.07:126][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.38.07:126][ 49]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.38.07:126][ 49]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-15.38.07:136][ 49]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-15.38.07:137][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.38.07:137][ 49]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.05-15.38.07:139][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-15.38.07:142][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.38.07:160][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-15.38.07:160][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.05-15.38.07:160][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.03.05-15.38.07:163][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.03.05-15.38.07:169][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.05-15.38.07:209][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.03.05-15.38.39:185][751]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-15.38.39:188][751]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Explosion02...
+[2026.03.05-15.38.39:193][751]LogAudioDerivedData: Display: Explosion02 compressed to 13.84% (from 279KB to 38KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.05-15.38.39:193][751]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02: Duration=3.25 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=39649 bytes, ChunkN=0)
+[2026.03.05-15.38.57:027][819]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.05-15.38.57:033][819]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-15.38.57:033][819]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.05-15.38.57:034][819]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 596 us (total: 12.423 ms)
+[2026.03.05-15.38.57:034][819]LogPlayLevel: [PlayLevel] Compiling Coin before play...
+[2026.03.05-15.38.57:067][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.38.57:110][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Coin] ([2] browsable assets)...
+[2026.03.05-15.38.57:169][819]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Coin.Coin]
+[2026.03.05-15.38.57:169][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Coin]
+[2026.03.05-15.38.57:176][819]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Coin
+[2026.03.05-15.38.57:177][819]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/CoinAFD76E7D4E31A851BAFD62991D005F00.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset'
+[2026.03.05-15.38.57:184][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.110 ms (total: 2.85 sec)
+[2026.03.05-15.38.57:203][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.03.05-15.38.57:204][819]LogPlayLevel: PlayLevel: Blueprint regeneration took 170 ms (1 blueprints)
+[2026.03.05-15.38.57:204][819]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.38.57:208][819]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-15.38.57:209][819]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 821 us (total: 18.991 ms)
+[2026.03.05-15.38.57:209][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004953s)
+[2026.03.05-15.38.57:209][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004981s)
+[2026.03.05-15.38.57:225][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.05-15.38.57:226][819]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.05-15.38.57:228][819]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-15.38.57:228][819]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-15.38.57:228][819]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-15.38.57:228][819]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-15.38.57:228][819]LogWorldPartition: Display: WorldPartition initialize took 1.168 ms (total: 1.21 sec)
+[2026.03.05-15.38.57:228][819]LogPlayLevel: PIE: World Init took: (0.002599s)
+[2026.03.05-15.38.57:229][819]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.03.05-15.38.57:229][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-15.38.57:229][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-15.38.57:229][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-15.38.57:229][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-15.38.57:229][819]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-15.38.57:229][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-15.38.57:229][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-15.38.57:229][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-15.38.57:229][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-15.38.57:229][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-15.38.57:229][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-15.38.57:232][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-15.38.57:247][819]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.05-15.38.57:247][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-15.38.57:247][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-15.38.57:247][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-15.38.57:248][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.03.05-15.38.57:248][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.03.05-15.38.57:250][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.03.05-15.38.57:250][819]LogInit: FAudioDevice initialized with ID 24.
+[2026.03.05-15.38.57:250][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.03.05-15.38.57:250][819]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lvl_ThirdPerson'.
+[2026.03.05-15.38.57:250][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.05-15.38.57:294][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.38.57:294][819]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.05-15.38.57:297][819]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.05-15.38.57
+[2026.03.05-15.38.57:297][819]LogWorld: Bringing up level for play took: 0.002012
+[2026.03.05-15.38.57:299][819]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.03.05-15.38.57:304][819]PIE: Server logged in
+[2026.03.05-15.38.57:304][819]PIE: Play in editor total start time 0.271 seconds.
+[2026.03.05-15.38.57:338][820]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.38.57:338][820]LogContentValidation: Enabled validators:
+[2026.03.05-15.38.57:338][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.38.57:338][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.38.57:338][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.38.57:338][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.38.57:338][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.38.57:338][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.38.57:338][820]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.05-15.38.57:343][820]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-15.39.03:097][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.39.03:097][479]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.39.03:097][479]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-15.39.03:101][479]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-15.39.03:102][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.39.03:102][479]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.05-15.39.03:106][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-15.39.03:108][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.39.03:128][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.05-15.39.03:128][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.03.05-15.39.03:130][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.03.05-15.39.03:136][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.05-15.39.03:182][480]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.03.05-15.39.48:242][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5474.771484
+[2026.03.05-15.39.48:401][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-15.39.48:401][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5474.921387, Update Interval: 327.422699
+[2026.03.05-15.39.56:411][672]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.05-15.39.56:416][672]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-15.39.56:416][672]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.05-15.39.56:417][672]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 610 us (total: 13.034 ms)
+[2026.03.05-15.39.56:417][672]LogPlayLevel: [PlayLevel] Compiling Coin before play...
+[2026.03.05-15.39.56:450][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.39.56:516][672]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Coin] ([2] browsable assets)...
+[2026.03.05-15.39.56:573][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Coin.Coin]
+[2026.03.05-15.39.56:574][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Coin]
+[2026.03.05-15.39.56:582][672]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Coin
+[2026.03.05-15.39.56:582][672]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/CoinD31F7D76445925D37E425C9402B6D655.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset'
+[2026.03.05-15.39.56:589][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.893 ms (total: 2.99 sec)
+[2026.03.05-15.39.56:607][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.05-15.39.56:609][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2026.03.05-15.39.56:609][672]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.39.56:613][672]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-15.39.56:614][672]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 853 us (total: 19.845 ms)
+[2026.03.05-15.39.56:614][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005135s)
+[2026.03.05-15.39.56:614][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005163s)
+[2026.03.05-15.39.56:633][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.05-15.39.56:634][672]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.05-15.39.56:636][672]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-15.39.56:636][672]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-15.39.56:636][672]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-15.39.56:636][672]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-15.39.56:636][672]LogWorldPartition: Display: WorldPartition initialize took 1.101 ms (total: 1.21 sec)
+[2026.03.05-15.39.56:637][672]LogPlayLevel: PIE: World Init took: (0.002513s)
+[2026.03.05-15.39.56:637][672]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.03.05-15.39.56:637][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-15.39.56:637][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-15.39.56:637][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-15.39.56:637][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-15.39.56:637][672]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-15.39.56:637][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-15.39.56:637][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-15.39.56:637][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-15.39.56:637][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-15.39.56:637][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-15.39.56:637][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-15.39.56:640][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-15.39.56:654][672]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.05-15.39.56:656][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-15.39.56:656][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-15.39.56:656][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-15.39.56:656][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.03.05-15.39.56:656][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.03.05-15.39.56:658][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.03.05-15.39.56:658][672]LogInit: FAudioDevice initialized with ID 25.
+[2026.03.05-15.39.56:658][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.03.05-15.39.56:658][672]LogAudio: Display: Audio Device (ID: 25) registered with world 'Lvl_ThirdPerson'.
+[2026.03.05-15.39.56:658][672]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.05-15.39.56:693][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.39.56:693][672]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.05-15.39.56:694][672]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.05-15.39.56
+[2026.03.05-15.39.56:696][672]LogWorld: Bringing up level for play took: 0.002014
+[2026.03.05-15.39.56:698][672]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.03.05-15.39.56:702][672]PIE: Server logged in
+[2026.03.05-15.39.56:703][672]PIE: Play in editor total start time 0.287 seconds.
+[2026.03.05-15.39.56:738][673]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.39.56:738][673]LogContentValidation: Enabled validators:
+[2026.03.05-15.39.56:738][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.39.56:738][673]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.39.56:738][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.39.56:738][673]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.39.56:738][673]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.39.56:738][673]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.39.56:738][673]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.05-15.39.56:744][673]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-15.39.59:680][  0]LogBlueprintUserMessages: [Coin_C_UAID_D843AEDEA84CFFC402_1990549351] 1.0
+[2026.03.05-15.40.01:377][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.40.01:377][199]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.40.01:377][199]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-15.40.01:383][199]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-15.40.01:384][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.40.01:384][199]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.05-15.40.01:387][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-15.40.01:390][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.40.01:406][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.05-15.40.01:406][199]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.03.05-15.40.01:408][199]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.03.05-15.40.01:414][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.05-15.40.01:460][200]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.03.05-15.40.40:818][955]LogEditorTransaction: Undo Add Node
+[2026.03.05-15.40.55:778][643]LogEditorTransaction: Undo Add Node
+[2026.03.05-15.41.09:236][145]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.05-15.41.09:241][145]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-15.41.09:241][145]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.05-15.41.09:241][145]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 554 us (total: 13.588 ms)
+[2026.03.05-15.41.09:244][145]LogPlayLevel: [PlayLevel] Compiling WBP_ before play...
+[2026.03.05-15.41.09:291][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.41.09:348][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_] ([2] browsable assets)...
+[2026.03.05-15.41.09:350][145]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_.WBP_]
+[2026.03.05-15.41.09:350][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_]
+[2026.03.05-15.41.09:350][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_" FILE="../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_.uasset" SILENT=true
+[2026.03.05-15.41.09:361][145]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_
+[2026.03.05-15.41.09:361][145]LogSavePackage: Moving '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Saved/WBP_0C5D6CF24C5AB88D6741CEB2D11D4C16.tmp' to '../../../../../../Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_.uasset'
+[2026.03.05-15.41.09:368][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.570 ms (total: 3.06 sec)
+[2026.03.05-15.41.09:386][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.05-15.41.09:389][145]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2026.03.05-15.41.09:389][145]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.41.09:393][145]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-15.41.09:394][145]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 887 us (total: 20.732 ms)
+[2026.03.05-15.41.09:394][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005201s)
+[2026.03.05-15.41.09:394][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005232s)
+[2026.03.05-15.41.09:411][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.05-15.41.09:413][145]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.05-15.41.09:414][145]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-15.41.09:414][145]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-15.41.09:414][145]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-15.41.09:414][145]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-15.41.09:415][145]LogWorldPartition: Display: WorldPartition initialize took 1.171 ms (total: 1.21 sec)
+[2026.03.05-15.41.09:416][145]LogPlayLevel: PIE: World Init took: (0.002622s)
+[2026.03.05-15.41.09:416][145]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.03.05-15.41.09:416][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-15.41.09:416][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-15.41.09:416][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-15.41.09:416][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-15.41.09:416][145]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-15.41.09:416][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-15.41.09:416][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-15.41.09:416][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-15.41.09:416][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-15.41.09:416][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-15.41.09:416][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-15.41.09:418][145]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-15.41.09:434][145]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.05-15.41.09:434][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-15.41.09:434][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-15.41.09:434][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-15.41.09:435][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.03.05-15.41.09:435][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.03.05-15.41.09:437][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.03.05-15.41.09:437][145]LogInit: FAudioDevice initialized with ID 26.
+[2026.03.05-15.41.09:437][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.03.05-15.41.09:437][145]LogAudio: Display: Audio Device (ID: 26) registered with world 'Lvl_ThirdPerson'.
+[2026.03.05-15.41.09:437][145]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.05-15.41.09:480][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.41.09:480][145]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.05-15.41.09:482][145]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.05-15.41.09
+[2026.03.05-15.41.09:482][145]LogWorld: Bringing up level for play took: 0.002101
+[2026.03.05-15.41.09:484][145]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.03.05-15.41.09:489][145]PIE: Server logged in
+[2026.03.05-15.41.09:490][145]PIE: Play in editor total start time 0.248 seconds.
+[2026.03.05-15.41.09:521][146]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.41.09:521][146]LogContentValidation: Enabled validators:
+[2026.03.05-15.41.09:521][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.41.09:521][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.41.09:521][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.41.09:521][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.41.09:521][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.41.09:521][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.41.09:521][146]AssetCheck: /Game/Blueprints/UI/WBP_ Validating asset
+[2026.03.05-15.41.09:596][146]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-15.41.12:240][440]LogBlueprintUserMessages: [Coin_C_UAID_D843AEDEA84CFFC402_1990549351] 1.0
+[2026.03.05-15.41.13:137][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-15.41.13:137][543]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-15.41.13:138][543]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-15.41.13:144][543]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-15.41.13:145][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.41.13:145][543]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.05-15.41.13:148][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-15.41.13:151][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-15.41.13:166][543]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.05-15.41.13:166][543]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.03.05-15.41.13:168][543]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.03.05-15.41.13:174][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.05-15.41.13:201][544]LogPlayLevel: Display: Destroying online subsystem :Context_38
