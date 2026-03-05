@@ -14,7 +14,18 @@
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IMC_Default.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_.uasset",
-				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset"
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_HUD.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U7/HIUU59QZ2JVRYZEFQ13BHB.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Gold.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_MainMenu.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_OptionsMenu.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_PauseMenu.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/IA_Pause.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/IA_Pauses.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/IMP_Thridperson.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IA_Pause.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/Actions/IA_Pause.uasset"
 			]
 		}
 	]
