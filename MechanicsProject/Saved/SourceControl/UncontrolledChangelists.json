@@ -13,7 +13,6 @@
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/1Q/W3OOT7UMZ5QSHWHTKMBR86.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IMC_Default.uasset",
-				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_HUD.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U7/HIUU59QZ2JVRYZEFQ13BHB.uasset",
@@ -21,11 +20,27 @@
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_MainMenu.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_OptionsMenu.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_PauseMenu.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/Actions/IA_Pause.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/Coin_PickUp.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Coin_PickUp.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Journey_To_Ascend.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/MUS_Journey_To_Ascend.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Jump.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Jump1.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Coin2.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Coin1.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Coin3.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Jump2.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Coins_Cue.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/SFX_Jumps_Cue.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/MUS_Pause_Menu.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/MUS_BGM.uasset",
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/UI/WBP_.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/IA_Pause.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/IA_Pauses.uasset",
 				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/ThirdPerson/Blueprints/IMP_Thridperson.uasset",
-				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IA_Pause.uasset",
-				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/Actions/IA_Pause.uasset"
+				"C:/Users/S25134411/Documents/GitHub/GameMechanics/MechanicsProject/Content/Input/IA_Pause.uasset"
 			]
 		}
 	]
