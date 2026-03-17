@@ -2340,3 +2340,931 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.03.17-18.20.33:126][340]AssetCheck: /Game/Sounds/SFX_Jump1 Validating asset
 [2026.03.17-18.20.33:126][340]AssetCheck: /Game/Sounds/SFX_Jump2 Validating asset
 [2026.03.17-18.20.33:186][340]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.17-18.23.16:143][974]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds/MUS_Pause_Menu.MUS_Pause_Menu
+[2026.03.17-18.23.24:839][872]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-18.23.24:844][872]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-18.23.24:844][872]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.17-18.23.24:845][872]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 837 us (total: 21.523 ms)
+[2026.03.17-18.23.24:845][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-18.23.24:845][872]LogPlayLevel: Display: Creating online subsystem for client :Context_16
+[2026.03.17-18.23.24:848][872]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.03.17-18.23.24:884][873]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.17-18.23.24:891][873]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.17-18.23.24:892][873]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.031 ms (total: 10.543 ms)
+[2026.03.17-18.23.24:892][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008436s)
+[2026.03.17-18.23.24:892][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008476s)
+[2026.03.17-18.23.24:930][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.17-18.23.24:934][873]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.17-18.23.24:935][873]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-18.23.24:935][873]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-18.23.24:935][873]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-18.23.24:935][873]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-18.23.24:938][873]LogWorldPartition: Display: WorldPartition initialize took 1.587 ms (total: 235.384 ms)
+[2026.03.17-18.23.24:938][873]LogPlayLevel: PIE: World Init took: (0.003359s)
+[2026.03.17-18.23.24:938][873]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.17-18.23.24:938][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-18.23.24:938][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-18.23.24:938][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-18.23.24:938][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-18.23.24:938][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.17-18.23.24:938][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-18.23.24:938][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.17-18.23.24:938][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-18.23.24:938][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-18.23.24:938][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-18.23.24:938][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-18.23.24:941][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-18.23.24:973][873]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.17-18.23.24:973][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-18.23.24:973][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-18.23.24:973][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-18.23.24:973][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.03.17-18.23.24:973][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.03.17-18.23.24:977][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.03.17-18.23.24:977][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.03.17-18.23.24:977][873]LogInit: FAudioDevice initialized with ID 10.
+[2026.03.17-18.23.24:977][873]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_ThirdPerson'.
+[2026.03.17-18.23.24:977][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.17-18.23.25:006][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-18.23.25:006][873]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.17-18.23.25:010][873]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.17-18.23.25
+[2026.03.17-18.23.25:010][873]LogWorld: Bringing up level for play took: 0.003472
+[2026.03.17-18.23.25:020][873]PIE: Server logged in
+[2026.03.17-18.23.25:023][873]PIE: Play in editor total start time 0.179 seconds.
+[2026.03.17-18.23.25:029][873]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.03.17-18.23.25:084][874]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.17-18.23.26:222][936]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2026.03.17-18.23.26:222][936]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.17-18.23.26:222][936]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.17-18.23.26:223][936]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_Pause_Menu'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.03.17-18.23.28:850][ 96]Cmd: quit
+[2026.03.17-18.23.28:892][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-18.23.28:892][ 96]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.17-18.23.28:892][ 96]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.17-18.23.28:940][ 96]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.23.28:941][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.23.28:941][ 96]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.17-18.23.28:942][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-18.23.28:947][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.23.28:972][ 96]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-18.23.28:972][ 96]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.17-18.23.28:972][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.03.17-18.23.28:974][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.03.17-18.23.28:980][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.17-18.23.29:107][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.03.17-18.23.52:845][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1329.868408
+[2026.03.17-18.23.53:026][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-18.23.53:027][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1330.034180, Update Interval: 347.834106
+[2026.03.17-18.24.20:758][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.17-18.24.20:763][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.031
+[2026.03.17-18.24.20:763][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/MUS_Pause_Menu] ([1] browsable assets)...
+[2026.03.17-18.24.20:865][118]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/MUS_Pause_Menu.MUS_Pause_Menu]
+[2026.03.17-18.24.20:865][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/MUS_Pause_Menu]
+[2026.03.17-18.24.20:910][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sounds/MUS_Pause_Menu_Auto2
+[2026.03.17-18.24.20:911][118]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/MUS_Pause_Menu_Auto21FD1D2574942B659A46A0ABD8DE34BD1.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Autosaves/Game/Sounds/MUS_Pause_Menu_Auto2.uasset'
+[2026.03.17-18.24.20:915][118]LogFileHelpers: Auto-saving content packages took 0.152
+[2026.03.17-18.25.04:783][ 94]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.17-18.25.04:807][ 94]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.17-18.25.04:815][ 94]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.17-18.25.04:831][ 95]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.17-18.25.11:834][635]LogContentBrowser: Attempting asset rename: NewBlueprint -> Gem1
+[2026.03.17-18.25.11:851][635]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.17-18.25.20:295][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Collectables/Gem1.Gem1
+[2026.03.17-18.25.20:295][224]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.03.17-18.26.11:266][283]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.03.17-18.26.22:593][520]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.17-18.30.06:731][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1703.749268
+[2026.03.17-18.30.07:731][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-18.30.07:732][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1704.416016, Update Interval: 347.202362
+[2026.03.17-18.34.21:167][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.17-18.34.21:172][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.050
+[2026.03.17-18.34.21:173][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/MUS_Pause_Menu] ([1] browsable assets)...
+[2026.03.17-18.34.21:173][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/MUS_Pause_Menu]
+[2026.03.17-18.34.23:105][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sounds/MUS_Pause_Menu_Auto3
+[2026.03.17-18.34.23:106][866]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/MUS_Pause_Menu_Auto35F99DCC842391E57D9139898A9FA4524.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Autosaves/Game/Sounds/MUS_Pause_Menu_Auto3.uasset'
+[2026.03.17-18.34.23:107][866]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Gem1] ([2] browsable assets)...
+[2026.03.17-18.34.23:163][866]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Gem1.Gem1]
+[2026.03.17-18.34.23:163][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Gem1]
+[2026.03.17-18.34.23:167][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Collectables/Gem1_Auto3
+[2026.03.17-18.34.23:167][866]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Gem1_Auto30F5149FC48C7FA522F22D3BEB2F75BE8.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Autosaves/Game/Blueprints/Collectables/Gem1_Auto3.uasset'
+[2026.03.17-18.34.23:167][866]LogFileHelpers: Auto-saving content packages took 1.995
+[2026.03.17-18.35.20:242][232]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.35.20:244][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.35.20:306][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.17-18.35.31:235][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.17-18.35.31:382][ 42]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.17-18.35.31:391][ 42]LogSlate: Took 0.007310 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.17-18.35.32:345][ 42]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.17-18.35.32:455][ 42]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Collectables/Gem1.Gem1
+	Asset Type: Blueprint
+[2026.03.17-18.35.33:133][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.17-18.35.33:191][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.17-18.35.33:215][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.17-18.35.33:237][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.17-18.35.34:152][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Collectables/Coin.Coin
+[2026.03.17-18.35.34:152][ 88]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.03.17-18.35.47:375][571]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-18.35.47:380][571]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-18.35.47:380][571]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.17-18.35.47:383][571]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.155 ms (total: 22.678 ms)
+[2026.03.17-18.35.47:390][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-18.35.47:390][571]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2026.03.17-18.35.47:393][571]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.03.17-18.35.47:408][572]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.17-18.35.47:418][572]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.17-18.35.47:421][572]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.846 ms (total: 12.389 ms)
+[2026.03.17-18.35.47:421][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013820s)
+[2026.03.17-18.35.47:421][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.013866s)
+[2026.03.17-18.35.47:474][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.17-18.35.47:477][572]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.17-18.35.47:479][572]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-18.35.47:479][572]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-18.35.47:479][572]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-18.35.47:479][572]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-18.35.47:480][572]LogWorldPartition: Display: WorldPartition initialize took 1.846 ms (total: 237.231 ms)
+[2026.03.17-18.35.47:480][572]LogPlayLevel: PIE: World Init took: (0.004070s)
+[2026.03.17-18.35.47:480][572]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.17-18.35.47:480][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-18.35.47:480][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-18.35.47:480][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-18.35.47:480][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-18.35.47:480][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.17-18.35.47:480][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-18.35.47:480][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.17-18.35.47:480][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-18.35.47:480][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-18.35.47:480][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-18.35.47:482][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-18.35.47:484][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-18.35.47:517][572]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.17-18.35.47:518][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-18.35.47:518][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-18.35.47:518][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-18.35.47:518][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.17-18.35.47:518][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.17-18.35.47:522][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.17-18.35.47:522][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.17-18.35.47:522][572]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.17-18.35.47:522][572]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_ThirdPerson'.
+[2026.03.17-18.35.47:522][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.17-18.35.47:545][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-18.35.47:545][572]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.17-18.35.47:548][572]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.17-18.35.47
+[2026.03.17-18.35.47:548][572]LogWorld: Bringing up level for play took: 0.003128
+[2026.03.17-18.35.47:556][572]PIE: Server logged in
+[2026.03.17-18.35.47:558][572]PIE: Play in editor total start time 0.178 seconds.
+[2026.03.17-18.35.47:563][572]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.03.17-18.35.47:624][573]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.17-18.35.50:925][783]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1584515952] 1.0
+[2026.03.17-18.35.51:136][798]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1577078951] 2.0
+[2026.03.17-18.35.51:394][816]LogBlueprintUserMessages: [Coin_C_UAID_D843AEDEA84CFFC402_1990549351] 3.0
+[2026.03.17-18.35.51:693][837]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1600675954] 4.0
+[2026.03.17-18.35.52:168][870]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1609298955] 5.0
+[2026.03.17-18.35.52:910][924]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1592567953] 6.0
+[2026.03.17-18.35.53:254][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-18.35.53:254][946]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.17-18.35.53:255][946]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.17-18.35.53:264][946]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.35.53:264][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.35.53:265][946]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.17-18.35.53:266][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-18.35.53:271][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.35.53:296][946]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-18.35.53:296][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.17-18.35.53:296][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.03.17-18.35.53:298][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.03.17-18.35.53:305][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.03.17-18.35.53:333][947]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.03.17-18.36.35:677][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2092.694580
+[2026.03.17-18.36.35:888][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-18.36.35:888][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2092.860840, Update Interval: 327.576538
+[2026.03.17-18.36.40:174][376]LogContentBrowser: Deferred new asset file creation: Coin1
+[2026.03.17-18.36.40:186][376]LogContentBrowser: Creating deferred item: Coin1
+[2026.03.17-18.36.40:199][377]LogContentBrowser: Renaming the item being created (Deferred Item: Coin1).
+[2026.03.17-18.36.50:914][187]LogContentBrowser: Attempting asset rename: Coin1 -> Blue_Coin
+[2026.03.17-18.36.50:961][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.17-18.36.50:978][187]LogContentBrowser: End creating deferred item Coin1
+[2026.03.17-18.36.50:979][187]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.17-18.36.52:891][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin
+[2026.03.17-18.36.52:891][291]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.17-18.37.13:436][560]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Gold.Gold
+[2026.03.17-18.37.13:464][560]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.17-18.37.13:472][560]LogStreaming: Display: FlushAsyncLoading(598): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-18.37.13:490][560]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.03.17-18.37.13:502][560]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.03.17-18.37.13:512][560]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.03.17-18.37.13:513][560]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.03.17-18.37.13:991][560]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.37.13:991][560]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.37.13:991][560]MaterialEditorStats: Shader Count: 0
+[2026.03.17-18.37.13:991][560]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.37.14:117][561]LogPSOHitching: Encountered 250 PSO creation hitches so far (73 graphics, 177 compute). 0 of them were precached.
+[2026.03.17-18.37.14:159][562]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.37.14:160][562]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.37.14:160][562]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.37.14:160][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.37.14:160][562]MaterialEditorStats: Shader Count: 5
+[2026.03.17-18.37.14:160][562]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.37.20:243][782]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.37.25:630][117]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.37.35:818][223]LogMaterialEditor: Applying material Gold
+[2026.03.17-18.37.36:091][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.17-18.37.37:062][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.17-18.37.42:031][754]Cmd: TRANSACTION UNDO
+[2026.03.17-18.37.42:031][754]LogEditorTransaction: Undo Change Color Pin Value
+[2026.03.17-18.37.42:140][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.17-18.37.42:307][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.17-18.37.43:012][797]Cmd: TRANSACTION UNDO
+[2026.03.17-18.37.43:012][797]LogEditorTransaction: Undo Change Color Pin Value
+[2026.03.17-18.37.43:108][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.17-18.37.44:072][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.17-18.37.46:403][ 65]LogMaterialEditor: Applying material Gold
+[2026.03.17-18.37.46:496][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.17-18.37.46:657][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.17-18.37.50:339][371]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.38.00:658][921]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: ================================================
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Total job queries 18,468, among them cache hits 4,622 (25.03%), DDC hits 12,362 (66.94%), Duplicates 877 (4.75%)
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Tracking 12,969 distinct input hashes that result in 11,878 distinct outputs (91.59%)
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: RAM used: 158.47 MiB of 819.20 MiB budget. Usage: 19.34%
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Shaders Compiled: 607
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Jobs assigned 607, completed 607 (100%)
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Average time worker was idle: 52.21 s
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Time job spent in pending queue: average 8.19 s, longest 60.55 s
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Job execution time: average 12.23 s, max 56.95 s
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Job life time (pending + execution): average 20.42 s, max 63.13
+[2026.03.17-18.38.00:673][921]LogShaderCompilers: Display: Shader code size: total 9.542 MiB, numShaders 630, average 15.51 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 138.76 s
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Jobs were issued in 190 batches (only local compilation was used), average 3.19 jobs/batch
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Average processing rate: 4.37 jobs/sec
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Total thread time: 1,093.97 s
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Total thread preprocess time: 163.282 s
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Percentage time preprocessing: 14.93%
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Effective parallelization: 7.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.985515
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 15.02 sec, max 37.19 sec, min 1.47 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 5.84 sec, max 5.84 sec, min 5.84 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 5.52 sec, max 13.95 sec, min 1.36 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 5.34 sec, max 5.34 sec, min 5.34 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 20.98% of total time (compiled   80 times, average 2.87 sec, max 5.06 sec, min 1.89 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 13.73% of total time (compiled   10 times, average 15.02 sec, max 37.19 sec, min 1.47 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.46% of total time (compiled   54 times, average 1.92 sec, max 25.22 sec, min 0.30 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.85% of total time (compiled   27 times, average 3.18 sec, max 28.16 sec, min 0.71 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 7.06% of total time (compiled   16 times, average 4.83 sec, max 12.35 sec, min 0.85 sec)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: === Material stats ===
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Materials Translated:    166
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Material Translation Only: 0.07 s (46%)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.17-18.38.00:675][921]LogShaderCompilers: Display: ================================================
+[2026.03.17-18.38.02:862][158]LogMaterialEditor: Applying material Gold
+[2026.03.17-18.38.02:949][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.17-18.38.04:011][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.17-18.38.07:986][568]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.38.07:986][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.38.08:035][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.17-18.38.40:954][547]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-18.38.47:080][140]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-18.39.17:269][832]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.03.17-18.39.17:285][832]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.03.17-18.39.17:312][833]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.03.17-18.39.20:078][ 70]LogContentBrowser: Attempting asset rename: NewMaterial -> Blue
+[2026.03.17-18.39.20:086][ 70]LogContentBrowser: End creating deferred item NewMaterial
+[2026.03.17-18.39.21:941][208]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/Blue.Blue
+[2026.03.17-18.39.21:944][208]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.17-18.39.22:321][208]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.39.22:321][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.39.22:321][208]MaterialEditorStats: Shader Count: 0
+[2026.03.17-18.39.22:321][208]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.39.22:380][210]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.39.22:380][210]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.39.22:380][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.39.22:380][210]MaterialEditorStats: Shader Count: 3
+[2026.03.17-18.39.22:380][210]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.39.23:077][291]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.39.23:077][291]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.39.23:077][291]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.39.23:077][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.39.23:077][291]MaterialEditorStats: Shader Count: 4
+[2026.03.17-18.39.23:077][291]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.39.27:497][338]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.39.33:731][ 47]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.39.33:731][ 47]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.39.33:731][ 47]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.39.33:731][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.39.33:731][ 47]MaterialEditorStats: Shader Count: 5
+[2026.03.17-18.39.33:731][ 47]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.39.37:029][415]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.39.37:029][415]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.39.37:029][415]MaterialEditorStats: Shader Count: 0
+[2026.03.17-18.39.37:029][415]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.39.37:061][418]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.39.37:061][418]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.39.37:061][418]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.39.37:061][418]MaterialEditorStats: Shader Count: 2
+[2026.03.17-18.39.37:061][418]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.39.37:795][499]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.39.37:795][499]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.39.37:795][499]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.39.37:795][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.39.37:795][499]MaterialEditorStats: Shader Count: 4
+[2026.03.17-18.39.37:795][499]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.39.41:817][954]LogMaterialEditor: Applying material Blue
+[2026.03.17-18.39.41:930][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.17-18.39.42:791][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.17-18.39.45:041][210]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.39.45:041][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.39.45:077][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.17-18.40.01:672][975]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.40.01:673][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.40.01:726][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.17-18.40.03:285][150]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.17-18.40.03:285][150]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.40.03:285][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.40.03:337][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.17-18.40.17:482][407]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.03.17-18.40.17:497][407]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.03.17-18.40.17:528][408]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.03.17-18.40.20:327][605]LogContentBrowser: Attempting asset rename: NewMaterial -> Red
+[2026.03.17-18.40.20:328][605]LogContentBrowser: End creating deferred item NewMaterial
+[2026.03.17-18.40.21:963][689]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/Red.Red
+[2026.03.17-18.40.21:966][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.17-18.40.22:320][689]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.40.22:320][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.22:320][689]MaterialEditorStats: Shader Count: 0
+[2026.03.17-18.40.22:320][689]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.40.22:391][691]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.40.22:391][691]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.40.22:391][691]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.40.22:391][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.22:391][691]MaterialEditorStats: Shader Count: 5
+[2026.03.17-18.40.22:391][691]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.40.27:353][828]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.40.28:415][932]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.40.28:415][932]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.40.28:415][932]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.40.28:415][932]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.28:415][932]MaterialEditorStats: Shader Count: 4
+[2026.03.17-18.40.28:415][932]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.40.29:329][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.40.29:329][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.29:329][ 31]MaterialEditorStats: Shader Count: 0
+[2026.03.17-18.40.29:329][ 31]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.40.29:361][ 34]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.40.29:362][ 34]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.40.29:362][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.29:362][ 34]MaterialEditorStats: Shader Count: 2
+[2026.03.17-18.40.29:362][ 34]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.40.30:175][123]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.40.30:175][123]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.40.30:175][123]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.40.30:175][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.30:175][123]MaterialEditorStats: Shader Count: 4
+[2026.03.17-18.40.30:175][123]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.40.34:076][583]LogMaterialEditor: Applying material Red
+[2026.03.17-18.40.34:188][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.17-18.40.35:161][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.17-18.40.36:398][720]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.40.36:398][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.40.36:436][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.17-18.40.48:466][757]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.03.17-18.40.48:494][757]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.03.17-18.40.48:560][758]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.03.17-18.40.54:381][180]LogContentBrowser: Attempting asset rename: NewMaterial -> Green
+[2026.03.17-18.40.54:382][180]LogContentBrowser: End creating deferred item NewMaterial
+[2026.03.17-18.40.56:202][289]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/Green.Green
+[2026.03.17-18.40.56:204][289]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.17-18.40.56:555][289]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.40.56:555][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.56:555][289]MaterialEditorStats: Shader Count: 0
+[2026.03.17-18.40.56:555][289]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.40.56:623][291]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.40.56:623][291]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.40.56:623][291]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.40.56:623][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.40.56:623][291]MaterialEditorStats: Shader Count: 5
+[2026.03.17-18.40.56:623][291]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.41.01:517][476]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: ================================================
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Total job queries 18,588, among them cache hits 4,702 (25.30%), DDC hits 12,367 (66.53%), Duplicates 880 (4.73%)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Tracking 13,006 distinct input hashes that result in 11,914 distinct outputs (91.60%)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: RAM used: 158.72 MiB of 819.20 MiB budget. Usage: 19.37%
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Shaders Compiled: 639
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Jobs assigned 639, completed 639 (100%)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Average time worker was idle: 47.10 s
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Time job spent in pending queue: average 7.78 s, longest 60.55 s
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Job execution time: average 11.65 s, max 56.95 s
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Job life time (pending + execution): average 19.43 s, max 63.13
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Shader code size: total 9.814 MiB, numShaders 662, average 15.182 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 150.07 s
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Jobs were issued in 222 batches (only local compilation was used), average 2.88 jobs/batch
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Average processing rate: 4.26 jobs/sec
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Total thread time: 1,113.058 s
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Total thread preprocess time: 164.569 s
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Percentage time preprocessing: 14.79%
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Effective parallelization: 7.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.927146
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 15.02 sec, max 37.19 sec, min 1.47 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 5.84 sec, max 5.84 sec, min 5.84 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 5.52 sec, max 13.95 sec, min 1.36 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 5.34 sec, max 5.34 sec, min 5.34 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 20.62% of total time (compiled   80 times, average 2.87 sec, max 5.06 sec, min 1.89 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 13.49% of total time (compiled   10 times, average 15.02 sec, max 37.19 sec, min 1.47 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.67% of total time (compiled   62 times, average 1.74 sec, max 25.22 sec, min 0.30 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.38% of total time (compiled   35 times, average 2.67 sec, max 28.16 sec, min 0.71 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.94% of total time (compiled   16 times, average 4.83 sec, max 12.35 sec, min 0.85 sec)
+[2026.03.17-18.41.01:536][476]LogShaderCompilers: Display: === Material stats ===
+[2026.03.17-18.41.01:537][476]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.17-18.41.01:537][476]LogShaderCompilers: Display: Materials Translated:    188
+[2026.03.17-18.41.01:537][476]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.03.17-18.41.01:537][476]LogShaderCompilers: Display: Material Translation Only: 0.07 s (46%)
+[2026.03.17-18.41.01:537][476]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.17-18.41.01:537][476]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.17-18.41.01:537][476]LogShaderCompilers: Display: ================================================
+[2026.03.17-18.41.02:852][603]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.41.02:853][603]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.41.02:853][603]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.41.02:853][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.41.02:853][603]MaterialEditorStats: Shader Count: 5
+[2026.03.17-18.41.02:853][603]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.41.03:959][730]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.41.03:959][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.41.03:959][730]MaterialEditorStats: Shader Count: 0
+[2026.03.17-18.41.03:959][730]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.41.03:984][733]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.41.03:984][733]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.17-18.41.03:984][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.41.03:984][733]MaterialEditorStats: Shader Count: 2
+[2026.03.17-18.41.03:984][733]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.41.04:658][811]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.17-18.41.04:658][811]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.17-18.41.04:658][811]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.17-18.41.04:658][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.17-18.41.04:658][811]MaterialEditorStats: Shader Count: 4
+[2026.03.17-18.41.04:658][811]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.17-18.41.09:977][945]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.41.16:686][119]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-18.41.19:114][380]LogMaterialEditor: Applying material Green
+[2026.03.17-18.41.19:219][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.17-18.41.20:189][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.17-18.41.20:785][437]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.41.20:785][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.41.20:822][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.17-18.41.31:769][345]LogContentBrowser: Deferred new asset file creation: Blue_Coin1
+[2026.03.17-18.41.31:780][345]LogContentBrowser: Creating deferred item: Blue_Coin1
+[2026.03.17-18.41.31:794][346]LogContentBrowser: Renaming the item being created (Deferred Item: Blue_Coin1).
+[2026.03.17-18.41.35:688][666]LogContentBrowser: Attempting asset rename: Blue_Coin1 -> Grre
+[2026.03.17-18.41.35:721][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.17-18.41.35:738][666]LogContentBrowser: End creating deferred item Blue_Coin1
+[2026.03.17-18.41.35:739][666]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.17-18.41.35:891][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.17-18.41.39:153][672]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.17-18.41.49:857][338]LogContentBrowser: Attempting asset rename: Grre -> Green_Coin
+[2026.03.17-18.41.49:995][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-18.41.49:995][338]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Green_Coin] ([2] browsable assets)...
+[2026.03.17-18.41.49:995][338]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.17-18.41.50:011][338]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin]
+[2026.03.17-18.41.50:011][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Green_Coin]
+[2026.03.17-18.41.50:017][338]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Green_Coin
+[2026.03.17-18.41.50:017][338]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Green_CoinE7528C30437E11304FB60E804F24F20D.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Green_Coin.uasset'
+[2026.03.17-18.41.50:022][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.886 ms (total: 725.292 ms)
+[2026.03.17-18.41.50:054][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.17-18.41.50:077][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.17-18.41.50:099][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.17-18.41.50:142][338]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-18.41.50:142][338]LogContentValidation: Enabled validators:
+[2026.03.17-18.41.50:142][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-18.41.50:142][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-18.41.50:142][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-18.41.50:143][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-18.41.50:143][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-18.41.50:143][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-18.41.50:143][338]AssetCheck: /Game/Blueprints/Collectables/Green_Coin Validating asset
+[2026.03.17-18.41.50:202][338]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.17-18.41.56:210][709]LogContentBrowser: Attempting asset rename: Coin -> Gold_coin
+[2026.03.17-18.41.56:313][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-18.41.56:313][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Collectables/Gold_coin] ([2] browsable assets)...
+[2026.03.17-18.41.56:313][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Gold_coin]
+[2026.03.17-18.41.56:318][709]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Gold_coin
+[2026.03.17-18.41.56:318][709]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Gold_coin6D2778D24454C46087BDB3BC9ACF16D4.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Gold_coin.uasset'
+[2026.03.17-18.41.56:324][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Collectables/Coin] ([5] browsable assets)...
+[2026.03.17-18.41.56:324][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Coin]
+[2026.03.17-18.41.56:325][709]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Coin
+[2026.03.17-18.41.56:325][709]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Coin5075E46744BE811EA879BEADEC43EB32.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Coin.uasset'
+[2026.03.17-18.41.56:328][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.663 ms (total: 739.955 ms)
+[2026.03.17-18.41.56:375][709]LogContentValidation: Display: Starting to validate 4 assets
+[2026.03.17-18.41.56:375][709]LogContentValidation: Enabled validators:
+[2026.03.17-18.41.56:375][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-18.41.56:375][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-18.41.56:375][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-18.41.56:375][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-18.41.56:375][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-18.41.56:375][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-18.41.56:375][709]AssetCheck: /Game/Blueprints/Collectables/Gold_coin Validating asset
+[2026.03.17-18.41.56:376][709]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.17-18.41.56:376][709]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.17-18.41.56:376][709]AssetCheck: /Game/Blueprints/Collectables/Coin Validating asset
+[2026.03.17-18.41.56:436][709]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.17-18.41.56:438][710]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.03.17-18.42.01:782][955]LogContentBrowser: Deferred new asset file creation: Green_Coin1
+[2026.03.17-18.42.01:839][955]LogContentBrowser: Creating deferred item: Green_Coin1
+[2026.03.17-18.42.01:852][956]LogContentBrowser: Renaming the item being created (Deferred Item: Green_Coin1).
+[2026.03.17-18.42.08:971][489]LogContentBrowser: Attempting asset rename: Green_Coin1 -> Red_Coin
+[2026.03.17-18.42.09:008][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.17-18.42.09:023][489]LogContentBrowser: End creating deferred item Green_Coin1
+[2026.03.17-18.42.09:024][489]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.03.17-18.42.10:785][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin
+[2026.03.17-18.42.10:785][602]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.17-18.42.23:290][923]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.42.23:290][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.42.23:356][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.17-18.42.26:860][217]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin
+[2026.03.17-18.42.26:860][217]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.03.17-18.42.37:946][364]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.42.37:946][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.42.38:013][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.17-18.42.42:719][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.17-18.42.43:646][743]LogSlate: Window 'Save Content' being destroyed
+[2026.03.17-18.42.43:662][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-18.42.43:713][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/Blue] ([1] browsable assets)...
+[2026.03.17-18.42.43:766][743]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/Blue.Blue]
+[2026.03.17-18.42.43:766][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Blue]
+[2026.03.17-18.42.43:768][743]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/Blue
+[2026.03.17-18.42.43:768][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue6D374F104A1376815D7DC3B56261117A.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/StarterContent/Materials/Blue.uasset'
+[2026.03.17-18.42.43:771][743]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Blue_Coin] ([2] browsable assets)...
+[2026.03.17-18.42.43:779][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin]
+[2026.03.17-18.42.43:779][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Blue_Coin]
+[2026.03.17-18.42.43:784][743]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Blue_Coin
+[2026.03.17-18.42.43:785][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue_Coin40B93D3E436D0530105738A283089704.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Blue_Coin.uasset'
+[2026.03.17-18.42.43:789][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gold] ([1] browsable assets)...
+[2026.03.17-18.42.43:796][743]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gold.Gold]
+[2026.03.17-18.42.43:796][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gold]
+[2026.03.17-18.42.43:796][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gold" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Gold.uasset" SILENT=true
+[2026.03.17-18.42.43:799][743]LogSavePackage: Moving output files for package: /Game/Gold
+[2026.03.17-18.42.43:799][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Gold7D7CE748430F9094CFA4C0B6A9068939.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Gold.uasset'
+[2026.03.17-18.42.43:800][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/Green] ([1] browsable assets)...
+[2026.03.17-18.42.43:808][743]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/Green.Green]
+[2026.03.17-18.42.43:808][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Green]
+[2026.03.17-18.42.43:809][743]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/Green
+[2026.03.17-18.42.43:810][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/GreenC9E31ABF4C32AD0CA5DF62A0E701C723.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/StarterContent/Materials/Green.uasset'
+[2026.03.17-18.42.43:811][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Collectables/Green_Coin] ([2] browsable assets)...
+[2026.03.17-18.42.43:811][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Green_Coin]
+[2026.03.17-18.42.43:817][743]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Green_Coin
+[2026.03.17-18.42.43:818][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Green_Coin0482F38D4F63B2F3AC172B844E0EE5C1.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Green_Coin.uasset'
+[2026.03.17-18.42.43:819][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/MUS_Pause_Menu] ([1] browsable assets)...
+[2026.03.17-18.42.43:819][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/MUS_Pause_Menu]
+[2026.03.17-18.42.43:819][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/MUS_Pause_Menu" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/MUS_Pause_Menu.uasset" SILENT=true
+[2026.03.17-18.42.43:906][743]LogSavePackage: Moving output files for package: /Game/Sounds/MUS_Pause_Menu
+[2026.03.17-18.42.43:908][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/MUS_Pause_MenuEBE4C0A241964E846CFBE48000D5CB2D.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Sounds/MUS_Pause_Menu.uasset'
+[2026.03.17-18.42.43:910][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/Red] ([1] browsable assets)...
+[2026.03.17-18.42.43:918][743]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/Red.Red]
+[2026.03.17-18.42.43:918][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Red]
+[2026.03.17-18.42.43:920][743]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/Red
+[2026.03.17-18.42.43:920][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Red95B8D6BA42CD8DB653F62688ABC8F242.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/StarterContent/Materials/Red.uasset'
+[2026.03.17-18.42.43:922][743]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Collectables/Red_Coin] ([2] browsable assets)...
+[2026.03.17-18.42.43:930][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin]
+[2026.03.17-18.42.43:930][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Collectables/Red_Coin]
+[2026.03.17-18.42.43:935][743]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectables/Red_Coin
+[2026.03.17-18.42.43:935][743]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Red_CoinEB54F29F487DA71E0AD1C38C8E64A68B.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Collectables/Red_Coin.uasset'
+[2026.03.17-18.42.43:948][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 287.576 ms (total: 1.02 sec)
+[2026.03.17-18.42.43:979][743]LogContentValidation: Display: Starting to validate 8 assets
+[2026.03.17-18.42.43:979][743]LogContentValidation: Enabled validators:
+[2026.03.17-18.42.43:979][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-18.42.43:979][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-18.42.43:979][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-18.42.43:979][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-18.42.43:979][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-18.42.43:979][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/StarterContent/Materials/Blue Validating asset
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/Blueprints/Collectables/Blue_Coin Validating asset
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/Gold Validating asset
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/StarterContent/Materials/Green Validating asset
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/Blueprints/Collectables/Green_Coin Validating asset
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/Sounds/MUS_Pause_Menu Validating asset
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/StarterContent/Materials/Red Validating asset
+[2026.03.17-18.42.43:979][743]AssetCheck: /Game/Blueprints/Collectables/Red_Coin Validating asset
+[2026.03.17-18.42.44:002][743]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.17-18.42.45:937][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2462.948975
+[2026.03.17-18.42.46:186][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-18.42.46:186][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2463.185791, Update Interval: 341.773132
+[2026.03.17-18.42.49:513][157]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Gold_coin.Gold_coin_C
+[2026.03.17-18.42.49:513][157]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Gold_coin.Gold_coin_C
+[2026.03.17-18.42.49:515][157]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Gold_coin.Gold_coin as actor: Gold_coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Gold_coin_C_0
+[2026.03.17-18.42.49:516][157]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Gold_coin.Gold_coin as actor: Gold_coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Gold_coin_C_0
+[2026.03.17-18.42.50:417][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.17-18.42.50:420][235]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.17-18.42.50:425][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Gold_coin.Gold_coin_C
+[2026.03.17-18.42.50:425][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Gold_coin.Gold_coin_C
+[2026.03.17-18.42.50:428][235]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Gold_coin.Gold_coin as actor: Gold_coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Gold_coin_C_UAID_CC28AAA37991CFC802_1909865132
+[2026.03.17-18.42.50:428][235]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Gold_coin.Gold_coin as actor: Gold_coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Gold_coin_C_UAID_CC28AAA37991CFC802_1909865132
+[2026.03.17-18.42.51:221][292]Cmd: DELETE
+[2026.03.17-18.42.51:226][292]Cmd: ACTOR DELETE
+[2026.03.17-18.42.51:231][292]LogEditorActor: Deleted Actor: Gold_coin_C
+[2026.03.17-18.42.51:258][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.17-18.42.51:260][292]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.03.17-18.42.54:020][474]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.03.17-18.42.54:020][474]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.03.17-18.42.54:021][474]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_0
+[2026.03.17-18.42.54:023][474]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_0
+[2026.03.17-18.42.56:245][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.17-18.42.56:247][683]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.17-18.42.56:252][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.03.17-18.42.56:252][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.03.17-18.42.56:255][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_UAID_CC28AAA37991CFC802_1915692133
+[2026.03.17-18.42.56:256][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_UAID_CC28AAA37991CFC802_1915692133
+[2026.03.17-18.43.00:294][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.03.17-18.43.00:294][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.03.17-18.43.00:295][971]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_0
+[2026.03.17-18.43.00:297][971]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_0
+[2026.03.17-18.43.01:765][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.03.17-18.43.01:768][104]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.03.17-18.43.01:774][104]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.03.17-18.43.01:774][104]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.03.17-18.43.01:776][104]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_UAID_CC28AAA37991CFC802_1921214134
+[2026.03.17-18.43.01:777][104]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_UAID_CC28AAA37991CFC802_1921214134
+[2026.03.17-18.43.06:734][460]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.03.17-18.43.06:734][460]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.03.17-18.43.06:736][460]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_0
+[2026.03.17-18.43.06:737][460]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_0
+[2026.03.17-18.43.08:558][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.17-18.43.08:560][643]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.03.17-18.43.08:566][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.03.17-18.43.08:566][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.03.17-18.43.08:569][643]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA37991CFC802_1928006135
+[2026.03.17-18.43.08:569][643]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA37991CFC802_1928006135
+[2026.03.17-18.43.12:346][918]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-18.43.12:354][918]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-18.43.12:354][918]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.17-18.43.12:355][918]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 962 us (total: 23.640 ms)
+[2026.03.17-18.43.12:355][918]LogPlayLevel: [PlayLevel] Compiling Blue_Coin before play...
+[2026.03.17-18.43.12:401][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.17-18.43.12:404][918]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2026.03.17-18.43.12:404][918]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2026.03.17-18.43.12:406][918]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.03.17-18.43.12:444][919]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.17-18.43.12:452][919]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.17-18.43.12:453][919]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.180 ms (total: 13.570 ms)
+[2026.03.17-18.43.12:454][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010179s)
+[2026.03.17-18.43.12:454][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.010220s)
+[2026.03.17-18.43.12:476][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.17-18.43.12:479][919]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.17-18.43.12:482][919]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-18.43.12:482][919]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-18.43.12:482][919]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-18.43.12:482][919]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-18.43.12:483][919]LogWorldPartition: Display: WorldPartition initialize took 1.892 ms (total: 239.123 ms)
+[2026.03.17-18.43.12:483][919]LogPlayLevel: PIE: World Init took: (0.003848s)
+[2026.03.17-18.43.12:485][919]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.03.17-18.43.12:485][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-18.43.12:485][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-18.43.12:485][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-18.43.12:485][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-18.43.12:485][919]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.17-18.43.12:485][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-18.43.12:485][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.17-18.43.12:485][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-18.43.12:485][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-18.43.12:485][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-18.43.12:485][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-18.43.12:488][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-18.43.12:519][919]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.17-18.43.12:519][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-18.43.12:519][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-18.43.12:519][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-18.43.12:520][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.03.17-18.43.12:520][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.03.17-18.43.12:522][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.03.17-18.43.12:522][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.03.17-18.43.12:522][919]LogInit: FAudioDevice initialized with ID 12.
+[2026.03.17-18.43.12:522][919]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_ThirdPerson'.
+[2026.03.17-18.43.12:523][919]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.17-18.43.12:548][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-18.43.12:549][919]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.17-18.43.12:552][919]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.17-18.43.12
+[2026.03.17-18.43.12:552][919]LogWorld: Bringing up level for play took: 0.003513
+[2026.03.17-18.43.12:562][919]PIE: Server logged in
+[2026.03.17-18.43.12:565][919]PIE: Play in editor total start time 0.212 seconds.
+[2026.03.17-18.43.12:572][919]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.03.17-18.43.12:627][920]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.17-18.43.17:516][252]LogBlueprintUserMessages: [Blue_Coin_C_UAID_CC28AAA37991CFC802_1928006135] 1.0
+[2026.03.17-18.43.19:224][377]LogBlueprintUserMessages: [Green_Coin_C_UAID_CC28AAA37991CFC802_1915692133] 2.0
+[2026.03.17-18.43.21:584][555]LogBlueprintUserMessages: [Red_Coin_C_UAID_CC28AAA37991CFC802_1921214134] 3.0
+[2026.03.17-18.43.23:223][676]LogBlueprintUserMessages: [Coin_C_UAID_D843AEDEA84CFFC402_1990549351] 4.0
+[2026.03.17-18.43.23:507][697]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1577078951] 5.0
+[2026.03.17-18.43.23:589][703]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1600675954] 6.0
+[2026.03.17-18.43.23:749][715]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1584515952] 7.0
+[2026.03.17-18.43.23:951][730]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1609298955] 8.0
+[2026.03.17-18.43.24:913][799]LogBlueprintUserMessages: [Coin_C_UAID_CC28AAA37991CEC802_1592567953] 9.0
+[2026.03.17-18.43.25:882][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-18.43.25:882][860]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.17-18.43.25:882][860]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.17-18.43.25:906][860]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-18.43.25:906][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.43.25:906][860]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.17-18.43.25:907][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-18.43.25:913][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-18.43.25:939][860]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.17-18.43.25:939][860]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.03.17-18.43.25:941][860]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.03.17-18.43.25:947][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.17-18.43.26:002][861]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.03.17-18.43.39:293][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.17-18.43.40:378][785]LogSlate: Window 'Save Content' being destroyed
+[2026.03.17-18.43.40:407][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-18.43.40:440][785]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/FZ/I3C3Z1M86SGYKLDLY8OW2W
+[2026.03.17-18.43.40:440][785]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/I3C3Z1M86SGYKLDLY8OW2W7F2F08D4483961884DC12A851E30B9AA.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/FZ/I3C3Z1M86SGYKLDLY8OW2W.uasset'
+[2026.03.17-18.43.40:446][785]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/7E/1GBI8UO65KH9DHNQE8RUWF
+[2026.03.17-18.43.40:446][785]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/1GBI8UO65KH9DHNQE8RUWFF8292D53466E7760FC6AE583A9975955.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/7E/1GBI8UO65KH9DHNQE8RUWF.uasset'
+[2026.03.17-18.43.40:449][785]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/29/UIV6UMGXTVXWG53KAU2N3H
+[2026.03.17-18.43.40:449][785]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/UIV6UMGXTVXWG53KAU2N3HC86CD44143EC99A476338EBB5B9D6D7E.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/29/UIV6UMGXTVXWG53KAU2N3H.uasset'
+[2026.03.17-18.43.40:471][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.042 ms (total: 1.09 sec)
+[2026.03.17-18.43.40:507][785]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.17-18.43.40:507][785]LogContentValidation: Enabled validators:
+[2026.03.17-18.43.40:507][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-18.43.40:507][785]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-18.43.40:507][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-18.43.40:507][785]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-18.43.40:507][785]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-18.43.40:507][785]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-18.43.40:507][785]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.03.17-18.43.40:570][785]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: ================================================
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Total job queries 18,627, among them cache hits 4,725 (25.37%), DDC hits 12,367 (66.39%), Duplicates 881 (4.73%)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Tracking 13,021 distinct input hashes that result in 11,929 distinct outputs (91.61%)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: RAM used: 158.82 MiB of 819.20 MiB budget. Usage: 19.39%
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Shaders Compiled: 654
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Jobs assigned 654, completed 654 (100%)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Average time worker was idle: 44.55 s
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Time job spent in pending queue: average 7.60 s, longest 60.55 s
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Job execution time: average 11.40 s, max 56.95 s
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Job life time (pending + execution): average 19.00 s, max 63.13
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Shader code size: total 9.934 MiB, numShaders 677, average 15.025 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 154.88 s
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Jobs were issued in 237 batches (only local compilation was used), average 2.76 jobs/batch
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Average processing rate: 4.22 jobs/sec
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Total thread time: 1,121.137 s
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Total thread preprocess time: 165 s
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Percentage time preprocessing: 14.72%
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Effective parallelization: 7.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.904858
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 15.02 sec, max 37.19 sec, min 1.47 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 5.84 sec, max 5.84 sec, min 5.84 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 5.52 sec, max 13.95 sec, min 1.36 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 5.34 sec, max 5.34 sec, min 5.34 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 20.47% of total time (compiled   80 times, average 2.87 sec, max 5.06 sec, min 1.89 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 13.40% of total time (compiled   10 times, average 15.02 sec, max 37.19 sec, min 1.47 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.77% of total time (compiled   66 times, average 1.66 sec, max 25.22 sec, min 0.30 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.61% of total time (compiled   39 times, average 2.48 sec, max 28.16 sec, min 0.71 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.89% of total time (compiled   16 times, average 4.83 sec, max 12.35 sec, min 0.85 sec)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: === Material stats ===
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Materials Translated:    193
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Material Translation Only: 0.07 s (46%)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.17-18.44.01:830][886]LogShaderCompilers: Display: ================================================
