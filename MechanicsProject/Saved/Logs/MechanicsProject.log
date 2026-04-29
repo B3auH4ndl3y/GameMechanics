@@ -2887,3 +2887,878 @@ FPackageName: Skipped package /Game/torch/source/torchholder has a valid, mounte
 [2026.04.29-16.26.29:852][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.29-16.26.29:852][367]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2026.04.29-16.26.29:869][367]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-16.27.33:812][440]Cmd: DELETE
+[2026.04.29-16.27.33:812][440]Cmd: ACTOR DELETE
+[2026.04.29-16.27.33:815][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.27.33:842][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.29-16.27.33:844][440]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.04.29-16.27.58:523][414]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.04.29-16.29.06:127][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.29-16.29.06:148][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.29.06:181][ 33]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Door] ([2] browsable assets)...
+[2026.04.29-16.29.06:218][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Door.Door]
+[2026.04.29-16.29.06:218][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Door]
+[2026.04.29-16.29.06:218][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Door.uasset" SILENT=true
+[2026.04.29-16.29.06:225][ 33]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Door
+[2026.04.29-16.29.06:225][ 33]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Door01BAA22D42EAC058366FE6B775513F61.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Door.uasset'
+[2026.04.29-16.29.06:234][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.180 ms (total: 1.98 sec)
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: Enabled validators:
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.29.06:288][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.29.06:288][ 33]AssetCheck: /Game/Blueprints/Level/Door Validating asset
+[2026.04.29-16.29.14:306][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.29-16.29.14:419][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.04.29-16.29.24:706][299]LogContentBrowser: Attempting asset rename: Door1 -> Blue_Door
+[2026.04.29-16.29.24:860][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.29.24:860][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Blue_Door] ([2] browsable assets)...
+[2026.04.29-16.29.24:860][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.04.29-16.29.24:904][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door]
+[2026.04.29-16.29.24:904][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Blue_Door]
+[2026.04.29-16.29.24:904][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Blue_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset" SILENT=true
+[2026.04.29-16.29.24:911][299]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Blue_Door
+[2026.04.29-16.29.24:911][299]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue_DoorC3DD909F4412E74B6F5C9496027FBBE8.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset'
+[2026.04.29-16.29.24:913][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.457 ms (total: 2.03 sec)
+[2026.04.29-16.29.24:942][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.29-16.29.24:965][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.29-16.29.24:987][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.29-16.29.25:031][299]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.29.25:031][299]LogContentValidation: Enabled validators:
+[2026.04.29-16.29.25:031][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.29.25:031][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.29.25:031][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.29.25:031][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.29.25:031][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.29.25:031][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.29.25:032][299]AssetCheck: /Game/Blueprints/Level/Blue_Door Validating asset
+[2026.04.29-16.29.25:079][299]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-16.29.27:577][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.29-16.29.30:310][799]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Level/Door1.Door1
+[2026.04.29-16.29.30:310][799]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.04.29-16.29.32:159][977]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.29.32:159][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.29.32:225][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.29-16.29.42:015][650]LogContentBrowser: Attempting asset rename: Door1 -> Red_Door
+[2026.04.29-16.29.42:113][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.29.42:113][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Red_Door] ([2] browsable assets)...
+[2026.04.29-16.29.42:113][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.04.29-16.29.42:155][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Red_Door.Red_Door]
+[2026.04.29-16.29.42:155][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Red_Door]
+[2026.04.29-16.29.42:155][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Red_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Red_Door.uasset" SILENT=true
+[2026.04.29-16.29.42:162][650]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Red_Door
+[2026.04.29-16.29.42:163][650]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Red_Door7E194C1B4E3B5566E212989D2DDA59D3.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Red_Door.uasset'
+[2026.04.29-16.29.42:165][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.773 ms (total: 2.09 sec)
+[2026.04.29-16.29.42:195][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.29-16.29.42:220][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.29-16.29.42:239][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.29-16.29.42:309][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.29.42:309][650]LogContentValidation: Enabled validators:
+[2026.04.29-16.29.42:309][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.29.42:310][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.29.42:310][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.29.42:310][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.29.42:310][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.29.42:310][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.29.42:310][650]AssetCheck: /Game/Blueprints/Level/Red_Door Validating asset
+[2026.04.29-16.29.42:350][650]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-16.29.42:812][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.29-16.29.50:921][222]LogContentBrowser: Attempting asset rename: Door1 -> Green_Door
+[2026.04.29-16.29.51:006][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.29.51:006][222]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Green_Door] ([2] browsable assets)...
+[2026.04.29-16.29.51:006][222]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.04.29-16.29.51:048][222]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Green_Door.Green_Door]
+[2026.04.29-16.29.51:048][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Green_Door]
+[2026.04.29-16.29.51:048][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Green_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset" SILENT=true
+[2026.04.29-16.29.51:055][222]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Green_Door
+[2026.04.29-16.29.51:055][222]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Green_Door7C4834384A0A7B4F007E5F9A04CFEFD8.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset'
+[2026.04.29-16.29.51:059][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.159 ms (total: 2.14 sec)
+[2026.04.29-16.29.51:088][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.29-16.29.51:110][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.29-16.29.51:133][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.29-16.29.51:177][222]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.29.51:177][222]LogContentValidation: Enabled validators:
+[2026.04.29-16.29.51:177][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.29.51:178][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.29.51:178][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.29.51:178][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.29.51:178][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.29.51:178][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.29.51:178][222]AssetCheck: /Game/Blueprints/Level/Green_Door Validating asset
+[2026.04.29-16.29.51:215][222]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-16.30.06:856][577]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door
+[2026.04.29-16.30.06:856][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.04.29-16.30.31:332][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.29-16.30.31:345][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.30.31:375][362]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Blue_Door] ([2] browsable assets)...
+[2026.04.29-16.30.31:413][362]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door]
+[2026.04.29-16.30.31:413][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Blue_Door]
+[2026.04.29-16.30.31:413][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Blue_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset" SILENT=true
+[2026.04.29-16.30.31:418][362]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Blue_Door
+[2026.04.29-16.30.31:419][362]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue_Door7FD4EC9D49CD8E7FC77BD8ABE5E9AB7C.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset'
+[2026.04.29-16.30.31:431][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.414 ms (total: 2.22 sec)
+[2026.04.29-16.30.31:480][362]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.30.31:480][362]LogContentValidation: Enabled validators:
+[2026.04.29-16.30.31:480][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.30.31:480][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.30.31:480][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.30.31:480][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.30.31:480][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.30.31:480][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.30.31:480][362]AssetCheck: /Game/Blueprints/Level/Blue_Door Validating asset
+[2026.04.29-16.30.37:907][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Level/Green_Door.Green_Door
+[2026.04.29-16.30.37:908][958]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.04.29-16.30.50:776][388]LogPhysics: Warning: Scale for /Engine/Transient.World_46:PersistentLevel.Green_Door_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=6.500
+[2026.04.29-16.30.50:777][388]LogPhysics: Warning: Scale for /Engine/Transient.World_46:PersistentLevel.Green_Door_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=6.500
+[2026.04.29-16.30.50:785][389]LogPhysics: Warning: Scale for /Engine/Transient.World_46:PersistentLevel.Green_Door_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=6.500
+[2026.04.29-16.30.50:794][390]LogPhysics: Warning: Scale for /Engine/Transient.World_46:PersistentLevel.Green_Door_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=6.500
+[2026.04.29-16.30.50:803][391]LogPhysics: Warning: Scale for /Engine/Transient.World_46:PersistentLevel.Green_Door_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=6.500
+[2026.04.29-16.30.50:811][392]LogPhysics: Warning: Scale for /Engine/Transient.World_46:PersistentLevel.Green_Door_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=6.500
+[2026.04.29-16.30.50:821][393]LogPhysics: Warning: Scale for /Engine/Transient.World_46:PersistentLevel.Green_Door_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=6.500
+[2026.04.29-16.30.52:122][544]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.29-16.30.56:684][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.29-16.30.56:696][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.30.56:729][ 14]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Green_Door] ([2] browsable assets)...
+[2026.04.29-16.30.56:767][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Green_Door.Green_Door]
+[2026.04.29-16.30.56:767][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Green_Door]
+[2026.04.29-16.30.56:767][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Green_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset" SILENT=true
+[2026.04.29-16.30.56:773][ 14]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Green_Door
+[2026.04.29-16.30.56:774][ 14]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Green_DoorDADF5A5D42A2DECA0F74DFA4C39B06F1.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset'
+[2026.04.29-16.30.56:787][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.579 ms (total: 2.31 sec)
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: Enabled validators:
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.30.56:836][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.30.56:836][ 14]AssetCheck: /Game/Blueprints/Level/Green_Door Validating asset
+[2026.04.29-16.30.58:283][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Level/Red_Door.Red_Door
+[2026.04.29-16.30.58:283][141]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.04.29-16.31.05:285][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2082.699463
+[2026.04.29-16.31.05:421][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.31.05:421][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2082.826172, Update Interval: 330.220642
+[2026.04.29-16.31.14:915][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.29-16.31.14:925][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.31.14:956][991]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Red_Door] ([2] browsable assets)...
+[2026.04.29-16.31.14:994][991]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Red_Door.Red_Door]
+[2026.04.29-16.31.14:994][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Red_Door]
+[2026.04.29-16.31.14:994][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Red_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Red_Door.uasset" SILENT=true
+[2026.04.29-16.31.15:001][991]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Red_Door
+[2026.04.29-16.31.15:001][991]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Red_DoorC14CE34B4582C4BD34DD4A92CED1B96A.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Red_Door.uasset'
+[2026.04.29-16.31.15:011][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.780 ms (total: 2.40 sec)
+[2026.04.29-16.31.15:064][991]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.31.15:064][991]LogContentValidation: Enabled validators:
+[2026.04.29-16.31.15:064][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.31.15:064][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.31.15:064][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.31.15:064][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.31.15:064][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.31.15:064][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.31.15:064][991]AssetCheck: /Game/Blueprints/Level/Red_Door Validating asset
+[2026.04.29-16.34.28:306][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.29-16.34.28:322][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.34.28:349][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Blue_Door] ([2] browsable assets)...
+[2026.04.29-16.34.28:413][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door]
+[2026.04.29-16.34.28:413][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Blue_Door]
+[2026.04.29-16.34.28:413][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Blue_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset" SILENT=true
+[2026.04.29-16.34.28:420][508]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Blue_Door
+[2026.04.29-16.34.28:421][508]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue_DoorB8634AD04425EB5BCA0BA8B03415AE41.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset'
+[2026.04.29-16.34.28:430][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.753 ms (total: 2.51 sec)
+[2026.04.29-16.34.28:470][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.34.28:470][508]LogContentValidation: Enabled validators:
+[2026.04.29-16.34.28:470][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.34.28:470][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.34.28:470][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.34.28:470][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.34.28:470][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.34.28:470][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.34.28:470][508]AssetCheck: /Game/Blueprints/Level/Blue_Door Validating asset
+[2026.04.29-16.34.54:848][634]LogEditorTransaction: Undo Create Pin Link
+[2026.04.29-16.35.03:220][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.29-16.35.03:235][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.35.03:267][577]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Blue_Door] ([2] browsable assets)...
+[2026.04.29-16.35.03:332][577]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door]
+[2026.04.29-16.35.03:332][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Blue_Door]
+[2026.04.29-16.35.03:332][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Blue_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset" SILENT=true
+[2026.04.29-16.35.03:338][577]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Blue_Door
+[2026.04.29-16.35.03:339][577]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue_Door3AF8547D4F509B4E0242BB9A76AE87CD.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset'
+[2026.04.29-16.35.03:348][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.618 ms (total: 2.62 sec)
+[2026.04.29-16.35.03:383][577]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.35.03:383][577]LogContentValidation: Enabled validators:
+[2026.04.29-16.35.03:383][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.35.03:383][577]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.35.03:383][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.35.03:383][577]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.35.03:383][577]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.35.03:383][577]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.35.03:383][577]AssetCheck: /Game/Blueprints/Level/Blue_Door Validating asset
+[2026.04.29-16.35.07:417][881]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Blue_Door.Blue_Door_C
+[2026.04.29-16.35.07:417][881]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Blue_Door.Blue_Door_C
+[2026.04.29-16.35.07:420][881]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door as actor: Blue_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Door_C_0
+[2026.04.29-16.35.07:421][881]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door as actor: Blue_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Door_C_0
+[2026.04.29-16.35.07:426][881]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.29-16.35.08:589][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.29-16.35.08:592][992]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.04.29-16.35.08:598][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Blue_Door.Blue_Door_C
+[2026.04.29-16.35.08:598][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Blue_Door.Blue_Door_C
+[2026.04.29-16.35.08:610][992]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door as actor: Blue_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Door_C_UAID_CC28AAA3799150D602_1122559559
+[2026.04.29-16.35.08:611][992]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door as actor: Blue_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Door_C_UAID_CC28AAA3799150D602_1122559559
+[2026.04.29-16.35.11:663][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.11:663][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.11:666][215]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_0
+[2026.04.29-16.35.11:667][215]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_0
+[2026.04.29-16.35.12:761][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.29-16.35.12:763][322]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.04.29-16.35.12:770][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.12:770][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.12:772][322]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1126724560
+[2026.04.29-16.35.12:772][322]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1126724560
+[2026.04.29-16.35.15:338][507]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.29-16.35.15:345][507]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.29-16.35.15:345][507]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.29-16.35.15:348][507]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 3.037 ms (total: 6.599 ms)
+[2026.04.29-16.35.15:348][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-16.35.15:349][507]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2026.04.29-16.35.15:352][507]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.04.29-16.35.15:372][508]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.35.15:377][508]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.29-16.35.15:378][508]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 854 us (total: 2.517 ms)
+[2026.04.29-16.35.15:378][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006031s)
+[2026.04.29-16.35.15:378][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006079s)
+[2026.04.29-16.35.15:398][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.29-16.35.15:401][508]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.29-16.35.15:402][508]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.29-16.35.15:402][508]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.29-16.35.15:402][508]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.29-16.35.15:402][508]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.29-16.35.15:403][508]LogWorldPartition: Display: WorldPartition initialize took 1.393 ms (total: 155.394 ms)
+[2026.04.29-16.35.15:403][508]LogPlayLevel: PIE: World Init took: (0.003009s)
+[2026.04.29-16.35.15:406][508]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.29-16.35.15:406][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-16.35.15:406][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-16.35.15:406][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-16.35.15:406][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-16.35.15:406][508]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-16.35.15:406][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-16.35.15:406][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-16.35.15:406][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-16.35.15:406][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-16.35.15:406][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-16.35.15:406][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-16.35.15:408][508]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-16.35.15:433][508]LogAudioMixer: Display: Using Audio Hardware Device MSI G27C4X (NVIDIA High Definition Audio)
+[2026.04.29-16.35.15:433][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-16.35.15:433][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-16.35.15:433][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-16.35.15:435][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.29-16.35.15:435][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.29-16.35.15:437][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.29-16.35.15:437][508]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.29-16.35.15:437][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.29-16.35.15:437][508]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.04.29-16.35.15:437][508]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.29-16.35.15:463][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.35.15:463][508]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.29-16.35.15:466][508]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.29-17.35.15
+[2026.04.29-16.35.15:466][508]LogWorld: Bringing up level for play took: 0.002896
+[2026.04.29-16.35.15:476][508]PIE: Server logged in
+[2026.04.29-16.35.15:478][508]PIE: Play in editor total start time 0.133 seconds.
+[2026.04.29-16.35.15:482][508]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.29-16.35.15:537][509]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-16.35.20:670][824]LogBlueprintUserMessages: [Blue_Door_C_UAID_CC28AAA3799150D602_1122559559] Door Open
+[2026.04.29-16.35.22:566][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.35.22:566][962]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.35.22:567][962]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.29-16.35.22:575][962]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.35.22:576][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.35.22:576][962]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.29-16.35.22:577][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-16.35.22:582][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.35.22:605][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-16.35.22:605][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.29-16.35.22:605][962]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.04.29-16.35.22:607][962]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.04.29-16.35.22:613][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.04.29-16.35.22:647][963]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.04.29-16.35.26:517][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.26:517][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.26:524][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_1
+[2026.04.29-16.35.26:525][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_1
+[2026.04.29-16.35.27:001][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.29-16.35.27:003][316]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.04.29-16.35.27:010][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.27:011][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.35.27:015][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1140964561
+[2026.04.29-16.35.27:016][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1140964561
+[2026.04.29-16.35.31:184][605]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.29-16.35.31:188][605]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.29-16.35.31:188][605]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.29-16.35.31:189][605]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 974 us (total: 7.573 ms)
+[2026.04.29-16.35.31:189][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-16.35.31:190][605]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2026.04.29-16.35.31:192][605]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.04.29-16.35.31:212][606]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.35.31:218][606]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.29-16.35.31:219][606]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 867 us (total: 3.385 ms)
+[2026.04.29-16.35.31:219][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006210s)
+[2026.04.29-16.35.31:219][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006265s)
+[2026.04.29-16.35.31:240][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.29-16.35.31:242][606]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.29-16.35.31:244][606]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.29-16.35.31:244][606]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.29-16.35.31:244][606]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.29-16.35.31:244][606]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.29-16.35.31:245][606]LogWorldPartition: Display: WorldPartition initialize took 1.427 ms (total: 156.822 ms)
+[2026.04.29-16.35.31:245][606]LogPlayLevel: PIE: World Init took: (0.003160s)
+[2026.04.29-16.35.31:245][606]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.29-16.35.31:245][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-16.35.31:246][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-16.35.31:246][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-16.35.31:246][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-16.35.31:246][606]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-16.35.31:246][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-16.35.31:246][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-16.35.31:246][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-16.35.31:246][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-16.35.31:246][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-16.35.31:246][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-16.35.31:248][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-16.35.31:272][606]LogAudioMixer: Display: Using Audio Hardware Device MSI G27C4X (NVIDIA High Definition Audio)
+[2026.04.29-16.35.31:272][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-16.35.31:272][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-16.35.31:272][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-16.35.31:273][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.29-16.35.31:273][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.29-16.35.31:275][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.29-16.35.31:275][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.29-16.35.31:275][606]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.29-16.35.31:275][606]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2026.04.29-16.35.31:275][606]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.29-16.35.31:300][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.35.31:301][606]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.29-16.35.31:303][606]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.29-17.35.31
+[2026.04.29-16.35.31:304][606]LogWorld: Bringing up level for play took: 0.002543
+[2026.04.29-16.35.31:312][606]PIE: Server logged in
+[2026.04.29-16.35.31:313][606]PIE: Play in editor total start time 0.125 seconds.
+[2026.04.29-16.35.31:319][606]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.29-16.35.31:381][607]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-16.35.36:001][903]LogBlueprintUserMessages: [Blue_Door_C_UAID_CC28AAA3799150D602_1122559559] Door Open
+[2026.04.29-16.35.37:796][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.35.37:797][ 33]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.35.37:797][ 33]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.29-16.35.37:817][ 33]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.35.37:818][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.35.37:818][ 33]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.29-16.35.37:819][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-16.35.37:825][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.35.37:848][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-16.35.37:849][ 33]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.29-16.35.37:849][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.04.29-16.35.37:851][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.04.29-16.35.37:858][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.29-16.35.37:893][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.04.29-16.35.40:957][242]Cmd: DELETE
+[2026.04.29-16.35.40:958][242]Cmd: ACTOR DELETE
+[2026.04.29-16.35.40:959][242]LogEditorActor: Deleted Actor: Blue_Coin_C
+[2026.04.29-16.35.40:993][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.29-16.35.40:996][242]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.04.29-16.35.41:878][304]Cmd: DELETE
+[2026.04.29-16.35.41:878][304]Cmd: ACTOR DELETE
+[2026.04.29-16.35.41:880][304]LogEditorActor: Deleted Actor: Blue_Coin_C
+[2026.04.29-16.35.41:904][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.29-16.35.41:908][304]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.04.29-16.35.43:230][396]Cmd: DELETE
+[2026.04.29-16.35.43:230][396]Cmd: ACTOR DELETE
+[2026.04.29-16.35.43:232][396]LogEditorActor: Deleted Actor: Blue_Door_C
+[2026.04.29-16.35.43:265][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.29-16.35.43:267][396]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.04.29-16.36.46:053][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.29-16.36.46:068][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.36.46:097][702]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Blue_Door] ([2] browsable assets)...
+[2026.04.29-16.36.46:167][702]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door]
+[2026.04.29-16.36.46:167][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Blue_Door]
+[2026.04.29-16.36.46:167][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Blue_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset" SILENT=true
+[2026.04.29-16.36.46:173][702]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Blue_Door
+[2026.04.29-16.36.46:174][702]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue_Door4403E8C64D681CE333AF368681766B00.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset'
+[2026.04.29-16.36.46:184][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.006 ms (total: 2.74 sec)
+[2026.04.29-16.36.46:226][702]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.36.46:226][702]LogContentValidation: Enabled validators:
+[2026.04.29-16.36.46:226][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.36.46:226][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.36.46:226][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.36.46:226][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.36.46:226][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.36.46:226][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.36.46:226][702]AssetCheck: /Game/Blueprints/Level/Blue_Door Validating asset
+[2026.04.29-16.36.47:953][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.29-16.36.47:967][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.36.47:998][887]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Green_Door] ([2] browsable assets)...
+[2026.04.29-16.36.48:068][887]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Green_Door.Green_Door]
+[2026.04.29-16.36.48:068][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Green_Door]
+[2026.04.29-16.36.48:068][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Green_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset" SILENT=true
+[2026.04.29-16.36.48:074][887]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Green_Door
+[2026.04.29-16.36.48:074][887]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Green_Door5AF9293941C0F79390BE729F6082EC09.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset'
+[2026.04.29-16.36.48:084][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.562 ms (total: 2.86 sec)
+[2026.04.29-16.36.48:122][887]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.36.48:122][887]LogContentValidation: Enabled validators:
+[2026.04.29-16.36.48:122][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.36.48:123][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.36.48:123][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.36.48:123][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.36.48:123][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.36.48:123][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.36.48:123][887]AssetCheck: /Game/Blueprints/Level/Green_Door Validating asset
+[2026.04.29-16.37.06:496][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.04.29-16.37.06:511][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.37.06:543][ 61]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Green_Door] ([2] browsable assets)...
+[2026.04.29-16.37.06:611][ 61]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Green_Door.Green_Door]
+[2026.04.29-16.37.06:611][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Green_Door]
+[2026.04.29-16.37.06:611][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Green_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset" SILENT=true
+[2026.04.29-16.37.06:617][ 61]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Green_Door
+[2026.04.29-16.37.06:618][ 61]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Green_Door2A4F854E49C3816F99B3BBA077ED91AC.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset'
+[2026.04.29-16.37.06:627][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.404 ms (total: 2.97 sec)
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: Enabled validators:
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.37.06:670][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.37.06:670][ 61]AssetCheck: /Game/Blueprints/Level/Green_Door Validating asset
+[2026.04.29-16.37.21:894][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.29-16.37.32:115][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2469.520508
+[2026.04.29-16.37.32:423][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.37.32:423][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2469.820801, Update Interval: 340.736725
+[2026.04.29-16.39.42:769][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.29-16.39.42:783][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.39.42:815][641]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Red_Door] ([2] browsable assets)...
+[2026.04.29-16.39.42:878][641]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Red_Door.Red_Door]
+[2026.04.29-16.39.42:878][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Red_Door]
+[2026.04.29-16.39.42:878][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Red_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Red_Door.uasset" SILENT=true
+[2026.04.29-16.39.42:886][641]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Red_Door
+[2026.04.29-16.39.42:886][641]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Red_Door3AF26DC545861561878E0EA2536FB30A.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Red_Door.uasset'
+[2026.04.29-16.39.42:897][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.617 ms (total: 3.09 sec)
+[2026.04.29-16.39.42:939][641]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.39.42:939][641]LogContentValidation: Enabled validators:
+[2026.04.29-16.39.42:939][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.39.42:939][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.39.42:939][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.39.42:939][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.39.42:939][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.39.42:939][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.39.42:939][641]AssetCheck: /Game/Blueprints/Level/Red_Door Validating asset
+[2026.04.29-16.40.01:996][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.29-16.40.02:012][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.40.02:046][906]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Green_Door] ([2] browsable assets)...
+[2026.04.29-16.40.02:118][906]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Green_Door.Green_Door]
+[2026.04.29-16.40.02:118][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Green_Door]
+[2026.04.29-16.40.02:118][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Green_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset" SILENT=true
+[2026.04.29-16.40.02:123][906]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Green_Door
+[2026.04.29-16.40.02:123][906]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Green_Door52E9FBF84BE6A8824D0182BD496B55EB.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Green_Door.uasset'
+[2026.04.29-16.40.02:134][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.018 ms (total: 3.21 sec)
+[2026.04.29-16.40.02:175][906]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.40.02:175][906]LogContentValidation: Enabled validators:
+[2026.04.29-16.40.02:175][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.40.02:175][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.40.02:175][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.40.02:175][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.40.02:175][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.40.02:175][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.40.02:176][906]AssetCheck: /Game/Blueprints/Level/Green_Door Validating asset
+[2026.04.29-16.40.21:463][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.29-16.40.21:477][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.40.21:510][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Blue_Door] ([2] browsable assets)...
+[2026.04.29-16.40.21:576][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Blue_Door.Blue_Door]
+[2026.04.29-16.40.21:576][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Blue_Door]
+[2026.04.29-16.40.21:576][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Blue_Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset" SILENT=true
+[2026.04.29-16.40.21:583][189]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Blue_Door
+[2026.04.29-16.40.21:583][189]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/Blue_Door3B7BE3484D68BC70A0409ABB68887CCE.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Blue_Door.uasset'
+[2026.04.29-16.40.21:593][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.502 ms (total: 3.32 sec)
+[2026.04.29-16.40.21:640][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.40.21:640][189]LogContentValidation: Enabled validators:
+[2026.04.29-16.40.21:640][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.40.21:640][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.40.21:640][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.40.21:640][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.40.21:640][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.40.21:640][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.40.21:640][189]AssetCheck: /Game/Blueprints/Level/Blue_Door Validating asset
+[2026.04.29-16.41.10:922][848]LogEditorTransaction: Undo Add Node
+[2026.04.29-16.42.09:310][515]LogEditorTransaction: Undo Move Node
+[2026.04.29-16.42.09:587][528]LogEditorTransaction: Undo Move Node
+[2026.04.29-16.42.10:120][574]LogEditorTransaction: Undo Create Reroute Node
+[2026.04.29-16.42.10:449][609]LogEditorTransaction: Undo Create Reroute Node
+[2026.04.29-16.42.20:253][772]LogEditorTransaction: Undo Move Node
+[2026.04.29-16.42.20:634][791]LogEditorTransaction: Undo Create Reroute Node
+[2026.04.29-16.42.44:009][565]LogEditorTransaction: Undo Move Node
+[2026.04.29-16.43.21:859][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.29-16.43.21:875][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.43.21:908][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Level/Door] ([2] browsable assets)...
+[2026.04.29-16.43.21:978][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Level/Door.Door]
+[2026.04.29-16.43.21:978][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Level/Door]
+[2026.04.29-16.43.21:978][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Level/Door" FILE="../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Door.uasset" SILENT=true
+[2026.04.29-16.43.21:985][986]LogSavePackage: Moving output files for package: /Game/Blueprints/Level/Door
+[2026.04.29-16.43.21:987][986]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/DoorF42CCA0E496C0EE39D3DE081300E8F89.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/Blueprints/Level/Door.uasset'
+[2026.04.29-16.43.21:995][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.906 ms (total: 3.44 sec)
+[2026.04.29-16.43.22:039][986]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.43.22:039][986]LogContentValidation: Enabled validators:
+[2026.04.29-16.43.22:039][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.43.22:039][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.43.22:039][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.43.22:039][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.43.22:039][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.43.22:039][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.43.22:039][986]AssetCheck: /Game/Blueprints/Level/Door Validating asset
+[2026.04.29-16.43.26:179][341]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.26:179][341]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.26:181][341]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_2
+[2026.04.29-16.43.26:182][341]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_2
+[2026.04.29-16.43.26:710][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.29-16.43.26:714][392]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.04.29-16.43.26:720][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.26:720][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.26:723][392]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1620674562
+[2026.04.29-16.43.26:726][392]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1620674562
+[2026.04.29-16.43.28:447][514]Cmd: DELETE
+[2026.04.29-16.43.28:448][514]Cmd: ACTOR DELETE
+[2026.04.29-16.43.28:449][514]LogEditorActor: Deleted Actor: Blue_Coin_C
+[2026.04.29-16.43.28:475][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.29-16.43.28:478][514]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.04.29-16.43.31:733][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.31:733][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.31:734][769]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_3
+[2026.04.29-16.43.31:736][769]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_3
+[2026.04.29-16.43.31:874][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.29-16.43.31:876][779]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.04.29-16.43.31:882][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.31:882][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin_C
+[2026.04.29-16.43.31:884][779]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1625836563
+[2026.04.29-16.43.31:885][779]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Blue_Coin.Blue_Coin as actor: Blue_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Blue_Coin_C_UAID_CC28AAA3799150D602_1625836563
+[2026.04.29-16.43.34:770][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.04.29-16.43.34:770][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.04.29-16.43.34:771][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_0
+[2026.04.29-16.43.34:772][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_0
+[2026.04.29-16.43.35:189][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.04.29-16.43.35:191][ 55]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.04.29-16.43.35:197][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.04.29-16.43.35:197][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Green_Coin.Green_Coin_C
+[2026.04.29-16.43.35:198][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_UAID_CC28AAA3799150D602_1629151564
+[2026.04.29-16.43.35:200][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Green_Coin.Green_Coin as actor: Green_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Coin_C_UAID_CC28AAA3799150D602_1629151564
+[2026.04.29-16.43.37:044][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.04.29-16.43.37:044][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.04.29-16.43.37:045][183]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_0
+[2026.04.29-16.43.37:047][183]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_0
+[2026.04.29-16.43.37:652][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.04.29-16.43.37:654][235]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.04.29-16.43.37:661][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.04.29-16.43.37:661][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectables/Red_Coin.Red_Coin_C
+[2026.04.29-16.43.37:663][235]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_UAID_CC28AAA3799150D602_1631615565
+[2026.04.29-16.43.37:664][235]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectables/Red_Coin.Red_Coin as actor: Red_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Coin_C_UAID_CC28AAA3799150D602_1631615565
+[2026.04.29-16.43.41:272][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Door.Door_C
+[2026.04.29-16.43.41:272][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Door.Door_C
+[2026.04.29-16.43.41:274][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Door.Door as actor: Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Door_C_0
+[2026.04.29-16.43.41:276][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Door.Door as actor: Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Door_C_0
+[2026.04.29-16.43.41:791][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.29-16.43.41:794][534]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.04.29-16.43.41:801][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Door.Door_C
+[2026.04.29-16.43.41:801][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Door.Door_C
+[2026.04.29-16.43.41:804][534]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Door.Door as actor: Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Door_C_UAID_CC28AAA3799150D602_1635755566
+[2026.04.29-16.43.41:806][534]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Door.Door as actor: Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Door_C_UAID_CC28AAA3799150D602_1635755566
+[2026.04.29-16.43.43:383][647]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.29-16.43.43:390][647]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.29-16.43.43:390][647]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.29-16.43.43:391][647]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.026 ms (total: 8.600 ms)
+[2026.04.29-16.43.43:396][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-16.43.43:397][647]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2026.04.29-16.43.43:399][647]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.04.29-16.43.43:421][648]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.43.43:428][648]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.29-16.43.43:429][648]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.077 ms (total: 4.463 ms)
+[2026.04.29-16.43.43:429][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008311s)
+[2026.04.29-16.43.43:429][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008349s)
+[2026.04.29-16.43.43:452][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.29-16.43.43:456][648]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.29-16.43.43:458][648]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.29-16.43.43:458][648]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.29-16.43.43:458][648]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.29-16.43.43:458][648]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.29-16.43.43:459][648]LogWorldPartition: Display: WorldPartition initialize took 1.643 ms (total: 158.466 ms)
+[2026.04.29-16.43.43:459][648]LogPlayLevel: PIE: World Init took: (0.003566s)
+[2026.04.29-16.43.43:460][648]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.04.29-16.43.43:460][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-16.43.43:460][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-16.43.43:460][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-16.43.43:460][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-16.43.43:460][648]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-16.43.43:460][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-16.43.43:460][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-16.43.43:460][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-16.43.43:460][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-16.43.43:460][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-16.43.43:460][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-16.43.43:462][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-16.43.43:488][648]LogAudioMixer: Display: Using Audio Hardware Device MSI G27C4X (NVIDIA High Definition Audio)
+[2026.04.29-16.43.43:488][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-16.43.43:488][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-16.43.43:488][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-16.43.43:488][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.04.29-16.43.43:488][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.04.29-16.43.43:491][648]LogInit: FAudioDevice initialized with ID 5.
+[2026.04.29-16.43.43:491][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.04.29-16.43.43:491][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.04.29-16.43.43:491][648]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2026.04.29-16.43.43:491][648]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.29-16.43.43:516][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.43.43:517][648]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.29-16.43.43:520][648]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.29-17.43.43
+[2026.04.29-16.43.43:520][648]LogWorld: Bringing up level for play took: 0.002712
+[2026.04.29-16.43.43:529][648]PIE: Server logged in
+[2026.04.29-16.43.43:532][648]PIE: Play in editor total start time 0.143 seconds.
+[2026.04.29-16.43.43:538][648]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.29-16.43.43:588][649]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-16.43.48:269][948]LogBlueprintUserMessages: [Door_C_UAID_CC28AAA3799150D602_1635755566] Door Open
+[2026.04.29-16.43.49:079][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.43.49:079][  4]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.43.49:079][  4]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.29-16.43.49:110][  4]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.43.49:110][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.43.49:110][  4]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.29-16.43.49:113][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-16.43.49:119][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.43.49:144][  4]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.29-16.43.49:144][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.04.29-16.43.49:146][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.04.29-16.43.49:153][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.29-16.43.49:191][  5]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.04.29-16.43.56:892][538]Cmd: DELETE
+[2026.04.29-16.43.56:892][538]Cmd: ACTOR DELETE
+[2026.04.29-16.43.56:894][538]LogEditorActor: Deleted Actor: Door_C
+[2026.04.29-16.43.56:919][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.29-16.43.56:922][538]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.04.29-16.43.57:746][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2855.143555
+[2026.04.29-16.43.57:911][607]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.43.57:911][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2855.293701, Update Interval: 359.309662
+[2026.04.29-16.43.58:984][679]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Green_Door.Green_Door_C
+[2026.04.29-16.43.58:984][679]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Green_Door.Green_Door_C
+[2026.04.29-16.43.58:986][679]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Green_Door.Green_Door as actor: Green_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Door_C_0
+[2026.04.29-16.43.58:987][679]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Green_Door.Green_Door as actor: Green_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Door_C_0
+[2026.04.29-16.43.59:106][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.29-16.43.59:109][686]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.04.29-16.43.59:141][687]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Green_Door.Green_Door_C
+[2026.04.29-16.43.59:141][687]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Green_Door.Green_Door_C
+[2026.04.29-16.43.59:142][687]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Green_Door.Green_Door as actor: Green_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Door_C_1
+[2026.04.29-16.43.59:143][687]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Green_Door.Green_Door as actor: Green_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Door_C_1
+[2026.04.29-16.43.59:545][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.29-16.43.59:547][724]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.04.29-16.43.59:553][724]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Green_Door.Green_Door_C
+[2026.04.29-16.43.59:553][724]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Green_Door.Green_Door_C
+[2026.04.29-16.43.59:557][724]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Green_Door.Green_Door as actor: Green_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Door_C_UAID_CC28AAA3799150D602_1653507567
+[2026.04.29-16.43.59:558][724]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Green_Door.Green_Door as actor: Green_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Green_Door_C_UAID_CC28AAA3799150D602_1653507567
+[2026.04.29-16.44.00:613][797]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.29-16.44.00:619][797]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.29-16.44.00:619][797]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.29-16.44.00:620][797]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.024 ms (total: 9.624 ms)
+[2026.04.29-16.44.00:624][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-16.44.00:624][797]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2026.04.29-16.44.00:626][797]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.04.29-16.44.00:646][798]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.44.00:652][798]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.29-16.44.00:653][798]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.056 ms (total: 5.519 ms)
+[2026.04.29-16.44.00:653][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006222s)
+[2026.04.29-16.44.00:653][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006264s)
+[2026.04.29-16.44.00:674][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.29-16.44.00:677][798]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.29-16.44.00:679][798]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.29-16.44.00:679][798]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.29-16.44.00:679][798]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.29-16.44.00:679][798]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.29-16.44.00:680][798]LogWorldPartition: Display: WorldPartition initialize took 1.418 ms (total: 159.884 ms)
+[2026.04.29-16.44.00:680][798]LogPlayLevel: PIE: World Init took: (0.003127s)
+[2026.04.29-16.44.00:681][798]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.29-16.44.00:681][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-16.44.00:681][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-16.44.00:681][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-16.44.00:681][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-16.44.00:681][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-16.44.00:681][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-16.44.00:681][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-16.44.00:681][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-16.44.00:681][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-16.44.00:681][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-16.44.00:681][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-16.44.00:683][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-16.44.00:706][798]LogAudioMixer: Display: Using Audio Hardware Device MSI G27C4X (NVIDIA High Definition Audio)
+[2026.04.29-16.44.00:706][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-16.44.00:706][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-16.44.00:706][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-16.44.00:706][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.04.29-16.44.00:706][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.04.29-16.44.00:709][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.29-16.44.00:709][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.04.29-16.44.00:709][798]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.29-16.44.00:709][798]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2026.04.29-16.44.00:709][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.29-16.44.00:735][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.44.00:735][798]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.29-16.44.00:737][798]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.29-17.44.00
+[2026.04.29-16.44.00:737][798]LogWorld: Bringing up level for play took: 0.002329
+[2026.04.29-16.44.00:746][798]PIE: Server logged in
+[2026.04.29-16.44.00:749][798]PIE: Play in editor total start time 0.13 seconds.
+[2026.04.29-16.44.00:755][798]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.29-16.44.00:803][799]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-16.44.05:865][124]LogBlueprintUserMessages: [Green_Door_C_UAID_CC28AAA3799150D602_1653507567] Door Open
+[2026.04.29-16.44.06:449][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.44.06:449][162]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.44.06:450][162]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.29-16.44.06:476][162]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.44.06:477][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.44.06:477][162]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.29-16.44.06:480][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-16.44.06:484][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.44.06:508][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.29-16.44.06:508][162]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.04.29-16.44.06:510][162]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.04.29-16.44.06:518][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.04.29-16.44.06:554][163]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.04.29-16.44.08:988][326]Cmd: DELETE
+[2026.04.29-16.44.08:988][326]Cmd: ACTOR DELETE
+[2026.04.29-16.44.08:990][326]LogEditorActor: Deleted Actor: Green_Door_C
+[2026.04.29-16.44.09:013][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.29-16.44.09:015][326]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.04.29-16.44.10:476][425]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Red_Door.Red_Door_C
+[2026.04.29-16.44.10:476][425]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Red_Door.Red_Door_C
+[2026.04.29-16.44.10:479][425]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Red_Door.Red_Door as actor: Red_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Door_C_0
+[2026.04.29-16.44.10:479][425]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Red_Door.Red_Door as actor: Red_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Door_C_0
+[2026.04.29-16.44.11:072][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.29-16.44.11:074][474]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.04.29-16.44.11:080][474]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Red_Door.Red_Door_C
+[2026.04.29-16.44.11:080][474]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Level/Red_Door.Red_Door_C
+[2026.04.29-16.44.11:083][474]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Red_Door.Red_Door as actor: Red_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Door_C_UAID_CC28AAA3799150D602_1665034568
+[2026.04.29-16.44.11:084][474]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Level/Red_Door.Red_Door as actor: Red_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Red_Door_C_UAID_CC28AAA3799150D602_1665034568
+[2026.04.29-16.44.12:174][551]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.29-16.44.12:179][551]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.29-16.44.12:179][551]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.29-16.44.12:180][551]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 991 us (total: 10.616 ms)
+[2026.04.29-16.44.12:184][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-16.44.12:184][551]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2026.04.29-16.44.12:186][551]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.04.29-16.44.12:207][552]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.44.12:212][552]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.29-16.44.12:213][552]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.009 ms (total: 6.529 ms)
+[2026.04.29-16.44.12:213][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006971s)
+[2026.04.29-16.44.12:213][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007021s)
+[2026.04.29-16.44.12:235][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.29-16.44.12:238][552]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.29-16.44.12:240][552]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.29-16.44.12:240][552]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.29-16.44.12:240][552]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.29-16.44.12:240][552]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.29-16.44.12:241][552]LogWorldPartition: Display: WorldPartition initialize took 1.407 ms (total: 161.292 ms)
+[2026.04.29-16.44.12:241][552]LogPlayLevel: PIE: World Init took: (0.003152s)
+[2026.04.29-16.44.12:242][552]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.29-16.44.12:242][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-16.44.12:242][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-16.44.12:242][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-16.44.12:242][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-16.44.12:242][552]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-16.44.12:242][552]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-16.44.12:242][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-16.44.12:242][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-16.44.12:242][552]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-16.44.12:242][552]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-16.44.12:242][552]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-16.44.12:244][552]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-16.44.12:266][552]LogAudioMixer: Display: Using Audio Hardware Device MSI G27C4X (NVIDIA High Definition Audio)
+[2026.04.29-16.44.12:266][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-16.44.12:266][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-16.44.12:266][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-16.44.12:266][552]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.29-16.44.12:266][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.29-16.44.12:270][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.29-16.44.12:270][552]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.29-16.44.12:270][552]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.29-16.44.12:270][552]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2026.04.29-16.44.12:270][552]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.29-16.44.12:295][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.44.12:296][552]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.29-16.44.12:298][552]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.29-17.44.12
+[2026.04.29-16.44.12:298][552]LogWorld: Bringing up level for play took: 0.002489
+[2026.04.29-16.44.12:307][552]PIE: Server logged in
+[2026.04.29-16.44.12:308][552]PIE: Play in editor total start time 0.13 seconds.
+[2026.04.29-16.44.12:313][552]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MUS_BGM'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.29-16.44.12:362][553]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-16.44.16:863][836]LogBlueprintUserMessages: [Red_Door_C_UAID_CC28AAA3799150D602_1665034568] Door Open
+[2026.04.29-16.44.17:459][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-16.44.17:459][876]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.29-16.44.17:459][876]LogSlate: Window 'MechanicsProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.29-16.44.17:475][876]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.44.17:476][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.44.17:476][876]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.29-16.44.17:479][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-16.44.17:483][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.44.17:508][876]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.29-16.44.17:508][876]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.04.29-16.44.17:511][876]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.04.29-16.44.17:519][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.04.29-16.44.17:563][877]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.04.29-16.44.19:219][977]Cmd: DELETE
+[2026.04.29-16.44.19:219][977]Cmd: ACTOR DELETE
+[2026.04.29-16.44.19:221][977]LogEditorActor: Deleted Actor: Red_Door_C
+[2026.04.29-16.44.19:242][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.29-16.44.19:245][977]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.04.29-16.44.22:304][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.29-16.44.24:064][194]LogSlate: Window 'Save Content' being destroyed
+[2026.04.29-16.44.25:509][285]Cmd: DELETE
+[2026.04.29-16.44.25:509][285]Cmd: ACTOR DELETE
+[2026.04.29-16.44.25:510][285]LogEditorActor: Deleted Actor: Red_Coin_C
+[2026.04.29-16.44.25:538][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.04.29-16.44.25:540][285]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.04.29-16.44.26:683][364]Cmd: DELETE
+[2026.04.29-16.44.26:683][364]Cmd: ACTOR DELETE
+[2026.04.29-16.44.26:685][364]LogEditorActor: Deleted Actor: Green_Coin_C
+[2026.04.29-16.44.26:708][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.29-16.44.26:710][364]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.04.29-16.44.27:206][396]Cmd: DELETE
+[2026.04.29-16.44.27:206][396]Cmd: ACTOR DELETE
+[2026.04.29-16.44.27:209][396]LogEditorActor: Deleted Actor: Blue_Coin_C
+[2026.04.29-16.44.27:230][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.29-16.44.27:233][396]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.04.29-16.44.28:007][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.29-16.44.29:759][450]LogSlate: Window 'Save Content' being destroyed
+[2026.04.29-16.44.29:787][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.44.29:837][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.04.29-16.44.29:862][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.04.29-16.44.29:885][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.29-16.44.29:889][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/10/0V6DPWQV037U4V3YJEHCY6
+[2026.04.29-16.44.29:890][450]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/0V6DPWQV037U4V3YJEHCY63894A43E46FB3A81163A67A15445B179.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/10/0V6DPWQV037U4V3YJEHCY6.uasset'
+[2026.04.29-16.44.29:892][450]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/3/VZ/OWLPKV5DVYELVAARZH8SMO
+[2026.04.29-16.44.29:892][450]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/OWLPKV5DVYELVAARZH8SMOCF8821D44B9641BBCE6976BC708EB88F.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/3/VZ/OWLPKV5DVYELVAARZH8SMO.uasset'
+[2026.04.29-16.44.29:905][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.278 ms (total: 3.56 sec)
+[2026.04.29-16.44.29:942][450]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.29-16.44.29:942][450]LogContentValidation: Enabled validators:
+[2026.04.29-16.44.29:942][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.44.29:942][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.44.29:942][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.44.29:942][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.44.29:942][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.44.29:942][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.44.29:942][450]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.04.29-16.44.29:961][450]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-16.45.03:378][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.04.29-16.45.03:381][ 65]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.024
