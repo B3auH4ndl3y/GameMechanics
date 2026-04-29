@@ -2762,3 +2762,128 @@ FPackageName: Skipped package /Game/torch/source/torchholder has a valid, mounte
 [2026.04.29-16.22.41:488][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
 [2026.04.29-16.22.41:513][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2026.04.29-16.22.41:525][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.942 ms (total: 1.75 sec)
+[2026.04.29-16.24.45:669][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1703.088257
+[2026.04.29-16.24.46:669][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.24.46:669][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1703.754517, Update Interval: 323.762329
+[2026.04.29-16.25.37:904][413]Cmd: DELETE
+[2026.04.29-16.25.37:904][413]Cmd: ACTOR DELETE
+[2026.04.29-16.25.37:907][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:909][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:909][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:910][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:911][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:911][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:912][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:913][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:913][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:914][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:914][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:915][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:915][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:916][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:917][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:918][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:918][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:919][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:921][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:921][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:922][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:923][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:923][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:924][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:925][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:926][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:927][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:927][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:928][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:929][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:929][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:930][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:930][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:931][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:932][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:932][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:933][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:933][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:934][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:935][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:935][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:936][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:936][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:937][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:938][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:938][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:939][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:939][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:939][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:940][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:941][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.37:962][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.29-16.25.37:966][413]LogEditorActor: Deleted 51 Actors (0.060 secs)
+[2026.04.29-16.25.40:700][645]Cmd: DELETE
+[2026.04.29-16.25.40:700][645]Cmd: ACTOR DELETE
+[2026.04.29-16.25.40:702][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.40:727][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.29-16.25.40:731][645]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.04.29-16.25.42:382][806]Cmd: TRANSACTION UNDO
+[2026.04.29-16.25.42:383][806]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.29-16.25.43:196][861]Cmd: TRANSACTION UNDO
+[2026.04.29-16.25.43:196][861]LogEditorTransaction: Undo Delete Elements
+[2026.04.29-16.25.45:103][ 18]Cmd: DELETE
+[2026.04.29-16.25.45:103][ 18]Cmd: ACTOR DELETE
+[2026.04.29-16.25.45:105][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.45:131][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.29-16.25.45:134][ 18]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.04.29-16.25.45:706][ 70]Cmd: DELETE
+[2026.04.29-16.25.45:707][ 70]Cmd: ACTOR DELETE
+[2026.04.29-16.25.45:709][ 70]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.45:732][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.29-16.25.45:734][ 70]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.04.29-16.25.46:228][113]Cmd: DELETE
+[2026.04.29-16.25.46:228][113]Cmd: ACTOR DELETE
+[2026.04.29-16.25.46:231][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.46:251][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.29-16.25.46:253][113]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.04.29-16.26.06:383][763]Cmd: DELETE
+[2026.04.29-16.26.06:383][763]Cmd: ACTOR DELETE
+[2026.04.29-16.26.06:385][763]LogEditorActor: Deleted Actor: Spikes_C
+[2026.04.29-16.26.06:413][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.29-16.26.06:415][763]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.04.29-16.26.07:492][846]Cmd: DELETE
+[2026.04.29-16.26.07:493][846]Cmd: ACTOR DELETE
+[2026.04.29-16.26.07:495][846]LogEditorActor: Deleted Actor: Blue_Coin_C
+[2026.04.29-16.26.07:519][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-16.26.07:521][846]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.04.29-16.26.08:110][890]Cmd: DELETE
+[2026.04.29-16.26.08:110][890]Cmd: ACTOR DELETE
+[2026.04.29-16.26.08:112][890]LogEditorActor: Deleted Actor: Green_Coin_C
+[2026.04.29-16.26.08:136][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.04.29-16.26.08:138][890]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.04.29-16.26.08:588][921]Cmd: DELETE
+[2026.04.29-16.26.08:588][921]Cmd: ACTOR DELETE
+[2026.04.29-16.26.08:589][921]LogEditorActor: Deleted Actor: Red_Coin_C
+[2026.04.29-16.26.08:610][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.04.29-16.26.08:612][921]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.04.29-16.26.20:633][789]Cmd: DELETE
+[2026.04.29-16.26.20:633][789]Cmd: ACTOR DELETE
+[2026.04.29-16.26.25:579][142]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.26.25:579][142]Can't find target element.
+[2026.04.29-16.26.28:777][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.29-16.26.29:641][367]LogSlate: Window 'Save Content' being destroyed
+[2026.04.29-16.26.29:673][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.26.29:739][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.29-16.26.29:759][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.29-16.26.29:782][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.29-16.26.29:803][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS
+[2026.04.29-16.26.29:805][367]LogSavePackage: Moving '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/TYFCMQ9MC435YW6FZBF5FSD522D1754496FA87B5C08EA00EB51F60.tmp' to '../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset'
+[2026.04.29-16.26.29:818][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.019 ms (total: 1.89 sec)
+[2026.04.29-16.26.29:851][367]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.26.29:851][367]LogContentValidation: Enabled validators:
+[2026.04.29-16.26.29:851][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.26.29:851][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.26.29:851][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.26.29:851][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.26.29:851][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.26.29:852][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.26.29:852][367]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.04.29-16.26.29:869][367]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beauh/Documents/GitHub/GameMechanics/MechanicsProject/Saved/SourceControl/UncontrolledChangelists.json
