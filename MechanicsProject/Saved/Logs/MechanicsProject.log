@@ -2051,3 +2051,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.30-13.08.13:795][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 632.589355
 [2026.04.30-13.08.13:945][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.30-13.08.13:945][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 632.731445, Update Interval: 310.618622
+[2026.04.30-13.11.42:253][437]LogSlate: External Image Picker: DecompressImage failed
+[2026.04.30-13.12.56:102][201]LogSlate: Window 'Project Settings' being destroyed
+[2026.04.30-13.12.56:108][201]LogSlate: Window 'Project Settings' being destroyed
